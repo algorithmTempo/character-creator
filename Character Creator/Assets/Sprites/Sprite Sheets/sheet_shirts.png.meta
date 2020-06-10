@@ -1,0 +1,2221 @@
+fileFormatVersion: 2
+guid: c6863d129ed78514f9a28dd240a22657
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8057567889818211410
+    second: blueArm_long
+  - first:
+      213: 6794666414248615254
+    second: greenShirt_1
+  - first:
+      213: -5111441977000623981
+    second: blueArm_short
+  - first:
+      213: 9158080170657269321
+    second: greyArm_long
+  - first:
+      213: 323248094349306758
+    second: greyShirt_7
+  - first:
+      213: 8620146840889083666
+    second: greyArm_short
+  - first:
+      213: -6837566108816283242
+    second: pineArm_long
+  - first:
+      213: -3207092572955030558
+    second: greyShirt_8
+  - first:
+      213: -3447253864832452515
+    second: redArm_shorter
+  - first:
+      213: -942060880145162203
+    second: whiteArm_long
+  - first:
+      213: 6269717790583321287
+    second: greyShirt_3
+  - first:
+      213: -2638525544326532936
+    second: blueArm_shorter
+  - first:
+      213: 5779914794702162620
+    second: yellowArm_long
+  - first:
+      213: -8983695750117628126
+    second: navyShirt_6
+  - first:
+      213: 3318248502263169105
+    second: greenArm_long
+  - first:
+      213: 6646666516568660219
+    second: redArm_long
+  - first:
+      213: -5820985951756985877
+    second: greenShirt_7
+  - first:
+      213: 7148202786361181326
+    second: yellowShirt_4
+  - first:
+      213: -2359484241076409719
+    second: greyShirt_1
+  - first:
+      213: 493045090439308941
+    second: greyShirt_5
+  - first:
+      213: 7802527264565198501
+    second: greenShirt_3
+  - first:
+      213: 2403305939455919709
+    second: greyShirt_2
+  - first:
+      213: 6223663811083505594
+    second: greenShirt_2
+  - first:
+      213: 4302913215983319401
+    second: navyArm_short
+  - first:
+      213: 9035449570787668436
+    second: greenShirt_5
+  - first:
+      213: -2058089414047691989
+    second: blueShirt_6
+  - first:
+      213: -4820513377403300853
+    second: navyShirt_1
+  - first:
+      213: 5908259162055465784
+    second: blueShirt_5
+  - first:
+      213: 5974299301385049032
+    second: greenArm_short
+  - first:
+      213: -844126143564027730
+    second: navyArm_long
+  - first:
+      213: 4995195661048948019
+    second: pineShirt_4
+  - first:
+      213: 8568215544079477744
+    second: whiteShirt_4
+  - first:
+      213: 5178383084145062315
+    second: navyShirt_4
+  - first:
+      213: 2069362898926340106
+    second: redShirt_4
+  - first:
+      213: 8422530956810286225
+    second: blueShirt_4
+  - first:
+      213: 7143336668912052018
+    second: greenShirt_4
+  - first:
+      213: 1724132879849745133
+    second: greyShirt_4
+  - first:
+      213: 8569527728836891144
+    second: greyShirt_6
+  - first:
+      213: 4609895204224632969
+    second: blueShirt_1
+  - first:
+      213: -8991214377861453170
+    second: yellowShirt_1
+  - first:
+      213: -4662147803830301911
+    second: whiteShirt_1
+  - first:
+      213: -1964998454001696642
+    second: navyShirt_5
+  - first:
+      213: 1173940837106967969
+    second: navyShirt_7
+  - first:
+      213: 1899729483298565652
+    second: pineShirt_2
+  - first:
+      213: -2030070079020447769
+    second: redShirt_1
+  - first:
+      213: 3141875775717683378
+    second: greyShirt_8
+  - first:
+      213: 6180745799495255270
+    second: navyShirt_2
+  - first:
+      213: 5952853868494710480
+    second: greenShirt_8
+  - first:
+      213: 5710165051967943344
+    second: whiteShirt_3
+  - first:
+      213: 695619004078612619
+    second: pineShirt_7
+  - first:
+      213: 3510638464230334027
+    second: navyShirt_3
+  - first:
+      213: -4721206973045065151
+    second: yellowShirt_8
+  - first:
+      213: 2052807653117840689
+    second: pineShirt_5
+  - first:
+      213: 2436446043222785747
+    second: redShirt_5
+  - first:
+      213: 7987942493105761129
+    second: blueShirt_8
+  - first:
+      213: 8405965171088800552
+    second: navyShirt_8
+  - first:
+      213: 6600809621294884044
+    second: whiteShirt_8
+  - first:
+      213: 5241282269098485430
+    second: redShirt_8
+  - first:
+      213: 9092767007456913467
+    second: blueShirt_7
+  - first:
+      213: 3954630331457526277
+    second: yellowShirt_7
+  - first:
+      213: 4918494439451024068
+    second: whiteShirt_7
+  - first:
+      213: 8111501620890980730
+    second: redShirt_7
+  - first:
+      213: 9083851462859945853
+    second: greenShirt_6
+  - first:
+      213: 2869091772384575959
+    second: pineShirt_1
+  - first:
+      213: 3259588383668997405
+    second: pineShirt_3
+  - first:
+      213: -1521714059647723297
+    second: pineShirt_6
+  - first:
+      213: 3553558566028927126
+    second: blueShirt_3
+  - first:
+      213: 3373292058056630786
+    second: yellowShirt_3
+  - first:
+      213: -836925549656076282
+    second: pineShirt_8
+  - first:
+      213: 1133064937196454666
+    second: redShirt_6
+  - first:
+      213: 4584539312035214065
+    second: blueShirt_2
+  - first:
+      213: 7691276942710003659
+    second: yellowShirt_2
+  - first:
+      213: -3123034186613999421
+    second: whiteShirt_2
+  - first:
+      213: 1618962157817796579
+    second: yellowShirt_6
+  - first:
+      213: -545282849031702922
+    second: whiteShirt_6
+  - first:
+      213: 8150551689381445413
+    second: redShirt_3
+  - first:
+      213: -7250175791574326937
+    second: blueShirt_5
+  - first:
+      213: 6189020821851215503
+    second: yellowShirt_5
+  - first:
+      213: 8470377025362990906
+    second: whiteShirt_5
+  - first:
+      213: 2811398536394850257
+    second: redShirt_2
+  - first:
+      213: 1429440422045735988
+    second: yellowArm_short
+  - first:
+      213: 2512039059288947335
+    second: whiteArm_short
+  - first:
+      213: -7667461452155363485
+    second: redArm_short
+  - first:
+      213: -2969022380506461715
+    second: pineArm_short
+  - first:
+      213: 579578023815129806
+    second: greyArm_shorter
+  - first:
+      213: -3785203640795903033
+    second: yellowArm_shorter
+  - first:
+      213: 1613547965169926050
+    second: whiteArm_shorter
+  - first:
+      213: 607480162962510607
+    second: navyArm_shorter
+  - first:
+      213: -1165116116415994761
+    second: greenArm_shorter
+  - first:
+      213: 3263892603420450713
+    second: pineArm_shorter
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blueArm_long
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1906
+        width: 171
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25455321e4b32df60800000000000000
+      internalID: 8057567889818211410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueArm_short
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1952
+        width: 118
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3908bde7a928019b0800000000000000
+      internalID: -5111441977000623981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greyArm_long
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1764
+        width: 171
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9464394c469081f70800000000000000
+      internalID: 9158080170657269321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greyArm_short
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1856
+        width: 118
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21746ea51e9e0a770800000000000000
+      internalID: 8620146840889083666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineArm_long
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1622
+        width: 171
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69961cbd9d51c11a0800000000000000
+      internalID: -6837566108816283242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redArm_shorter
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1674
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58b110dfd4e820d0800000000000000
+      internalID: -3447253864832452515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whiteArm_long
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1480
+        width: 171
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520e72aee902de2f0800000000000000
+      internalID: -942060880145162203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueArm_shorter
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1502
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b07f973ff2126bd0800000000000000
+      internalID: -2638525544326532936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowArm_long
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1338
+        width: 171
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba4f3ae1e1663050800000000000000
+      internalID: 5779914794702162620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenArm_long
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1196
+        width: 171
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1504ed59e69cc0e20800000000000000
+      internalID: 3318248502263169105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redArm_long
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1054
+        width: 171
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8de843bf3bd3c50800000000000000
+      internalID: 6646666516568660219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: navyArm_short
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 562
+        width: 118
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969f40aa5c407bb30800000000000000
+      internalID: 4302913215983319401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenArm_short
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 38
+        width: 118
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c39be8bf89f8e250800000000000000
+      internalID: 5974299301385049032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: navyArm_long
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 912
+        width: 171
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8ee3baebf0944f0800000000000000
+      internalID: -844126143564027730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineShirt_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 738
+        width: 161
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3352560fcff725540800000000000000
+      internalID: 4995195661048948019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whiteShirt_4
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 738
+        width: 161
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb66d714aa68e670800000000000000
+      internalID: 8568215544079477744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: navyShirt_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 564
+        width: 161
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1bb519aff4dd740800000000000000
+      internalID: 5178383084145062315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redShirt_4
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 564
+        width: 161
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0880e5b79ad7bc10800000000000000
+      internalID: 2069362898926340106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueShirt_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 390
+        width: 161
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194786ed747d2e470800000000000000
+      internalID: 8422530956810286225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenShirt_4
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 390
+        width: 161
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23766857ada322360800000000000000
+      internalID: 7143336668912052018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greyShirt_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 161
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deae30928b95de710800000000000000
+      internalID: 1724132879849745133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowShirt_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 161
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e840487bf84833360800000000000000
+      internalID: 7148202786361181326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greyShirt_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 216
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86a2e1c5e5a7d600800000000000000
+      internalID: 493045090439308941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greyShirt_2
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 42
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d564bd7c4024a5120800000000000000
+      internalID: 2403305939455919709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenShirt_5
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 42
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d131c4438d546d70800000000000000
+      internalID: 9035449570787668436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: navyShirt_1
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 216
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b049bd89f981a1db0800000000000000
+      internalID: -4820513377403300853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greyShirt_6
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1874
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802de2ae0141de670800000000000000
+      internalID: 8569527728836891144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenShirt_1
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1874
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65dd094aa118b4e50800000000000000
+      internalID: 6794666414248615254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueShirt_1
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1874
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98806939343a9ff30800000000000000
+      internalID: 4609895204224632969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowShirt_1
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1874
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8aee2c292ac83380800000000000000
+      internalID: -8991214377861453170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whiteShirt_1
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1874
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bc3560649bc4fb0800000000000000
+      internalID: -4662147803830301911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greyShirt_7
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1700
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b230edd686c7400800000000000000
+      internalID: 323248094349306758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: navyShirt_5
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1700
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70890d215ceab4e0800000000000000
+      internalID: -1964998454001696642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: navyShirt_7
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1700
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5e517b8fcaa4010800000000000000
+      internalID: 1173940837106967969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineShirt_2
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1700
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ee85d56e13d5a10800000000000000
+      internalID: 1899729483298565652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redShirt_1
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1700
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e746d6d40eb3d3e0800000000000000
+      internalID: -2030070079020447769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greyShirt_8
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1526
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0be042f5f2a9b20800000000000000
+      internalID: 3141875775717683378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: navyShirt_2
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1526
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e407e1ce8b66c550800000000000000
+      internalID: 6180745799495255270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenShirt_8
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1526
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6ef67cd09cc9250800000000000000
+      internalID: 5952853868494710480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whiteShirt_3
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1526
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2366b6cd49e3f40800000000000000
+      internalID: 5710165051967943344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineShirt_7
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1526
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80ed157cc557a900800000000000000
+      internalID: 695619004078612619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greyShirt_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1352
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c27aa5bc13820750800000000000000
+      internalID: 6269717790583321287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: navyShirt_3
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1352
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e9543451b48b030800000000000000
+      internalID: 3510638464230334027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowShirt_8
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1352
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a3d84a547ea7eb0800000000000000
+      internalID: -4721206973045065151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineShirt_5
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1352
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13dca4c2fa90d7c10800000000000000
+      internalID: 2052807653117840689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redShirt_5
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1352
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de33b874ceffc120800000000000000
+      internalID: 2436446043222785747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: navyShirt_6
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1178
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2276d0c1050835380800000000000000
+      internalID: -8983695750117628126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueShirt_8
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1178
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b21d3206fdade60800000000000000
+      internalID: 7987942493105761129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: navyShirt_8
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1178
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bbd0159ccf7a470800000000000000
+      internalID: 8405965171088800552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whiteShirt_8
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1178
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc42343c069ca9b50800000000000000
+      internalID: 6600809621294884044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redShirt_8
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1178
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b62b294476ccb840800000000000000
+      internalID: 5241282269098485430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenShirt_7
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1004
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be95cf62e14b73fa0800000000000000
+      internalID: -5820985951756985877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueShirt_7
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1004
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b386cd0fa6fff2e70800000000000000
+      internalID: 9092767007456913467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowShirt_7
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1004
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ad28c755ba1e630800000000000000
+      internalID: 3954630331457526277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whiteShirt_7
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1004
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca563522a0024440800000000000000
+      internalID: 4918494439451024068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redShirt_7
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1004
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7156346fb7d19070800000000000000
+      internalID: 8111501620890980730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greyShirt_1
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 830
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a2285759d614fd0800000000000000
+      internalID: -2359484241076409719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenShirt_6
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 830
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77fd24f6c2501e70800000000000000
+      internalID: 9083851462859945853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineShirt_1
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 830
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d18af014cf01d720800000000000000
+      internalID: 2869091772384575959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineShirt_3
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 830
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d849a6d526c3d20800000000000000
+      internalID: 3259588383668997405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineShirt_6
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 830
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8daf80029c1eae0800000000000000
+      internalID: -1521714059647723297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenShirt_3
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 656
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae75b22535284c60800000000000000
+      internalID: 7802527264565198501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueShirt_3
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 656
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69063b030b6c05130800000000000000
+      internalID: 3553558566028927126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowShirt_3
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 656
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202ac1c114750de20800000000000000
+      internalID: 3373292058056630786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineShirt_8
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 656
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6001d4595a4a264f0800000000000000
+      internalID: -836925549656076282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redShirt_6
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 656
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a038b01ae8479bf00800000000000000
+      internalID: 1133064937196454666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenShirt_2
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 482
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf06150345ee5650800000000000000
+      internalID: 6223663811083505594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueShirt_2
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 482
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f23ca0e63e8f9f30800000000000000
+      internalID: 4584539312035214065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowShirt_2
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 482
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7d16711a7ecba60800000000000000
+      internalID: 7691276942710003659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whiteShirt_2
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 482
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8b87d24f0c8a4d0800000000000000
+      internalID: -3123034186613999421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueShirt_6
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 308
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b02b705923073e0800000000000000
+      internalID: -2058089414047691989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowShirt_6
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 308
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e797814185b77610800000000000000
+      internalID: 1618962157817796579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whiteShirt_6
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 308
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6763a594324ce68f0800000000000000
+      internalID: -545282849031702922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redShirt_3
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 308
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f7a09f3939c1170800000000000000
+      internalID: 8150551689381445413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueShirt_5
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 134
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7616318d783326b90800000000000000
+      internalID: -7250175791574326937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowShirt_5
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 134
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8610f985a1d3e550800000000000000
+      internalID: 6189020821851215503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whiteShirt_5
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 134
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37146ec603dc8570800000000000000
+      internalID: 8470377025362990906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redShirt_2
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 134
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df3edbc218140720800000000000000
+      internalID: 2811398536394850257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowArm_short
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 38
+        width: 118
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cde978d7466d310800000000000000
+      internalID: 1429440422045735988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whiteArm_short
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 38
+        width: 118
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78af2de073e8cd220800000000000000
+      internalID: 2512039059288947335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redArm_short
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 38
+        width: 118
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f5747ee64b79590800000000000000
+      internalID: -7667461452155363485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineArm_short
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1760
+        width: 118
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de94abf10e9ebc6d0800000000000000
+      internalID: -2969022380506461715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greyArm_shorter
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1588
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecaaf1554231b0800800000000000000
+      internalID: 579578023815129806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowArm_shorter
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1416
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb48d3f751487bc0800000000000000
+      internalID: -3785203640795903033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whiteArm_shorter
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 918
+        width: 67
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aff10c4359746610800000000000000
+      internalID: 1613547965169926050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: navyArm_shorter
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 918
+        width: 67
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f031a795df33e6800800000000000000
+      internalID: 607480162962510607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenArm_shorter
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 396
+        width: 67
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77421fea01da4dfe0800000000000000
+      internalID: -1165116116415994761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineArm_shorter
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 396
+        width: 67
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f96eba70dab4d20800000000000000
+      internalID: 3263892603420450713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

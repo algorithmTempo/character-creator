@@ -1,0 +1,1726 @@
+fileFormatVersion: 2
+guid: fe089165f7365194fad543b4cfcd6ef3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2345468779461282424
+    second: darkBrownBrow_2
+  - first:
+      213: 6380046970507977476
+    second: sheet_face_1
+  - first:
+      213: 3782260084929813549
+    second: sheet_face_2
+  - first:
+      213: -6350783045292193015
+    second: mouth_happy
+  - first:
+      213: -7885278135319011629
+    second: sheet_face_4
+  - first:
+      213: -7147672158453882497
+    second: sheet_face_5
+  - first:
+      213: 5743452334985735425
+    second: sheet_face_6
+  - first:
+      213: -4144718182130744794
+    second: eyeGreen_small
+  - first:
+      213: 6738878819126377014
+    second: sheet_face_8
+  - first:
+      213: -1310937262047940664
+    second: sheet_face_9
+  - first:
+      213: -6866953130465179656
+    second: sheet_face_10
+  - first:
+      213: 2114877900102235196
+    second: sheet_face_11
+  - first:
+      213: -3208275348827045857
+    second: sheet_face_12
+  - first:
+      213: 7211719809335657122
+    second: sheet_face_13
+  - first:
+      213: -3500592905423902937
+    second: sheet_face_14
+  - first:
+      213: -279493557329201785
+    second: sheet_face_15
+  - first:
+      213: -4506617701508887032
+    second: eyeGreen_large
+  - first:
+      213: 2279536025245119565
+    second: sheet_face_17
+  - first:
+      213: 4888596994064553293
+    second: sheet_face_18
+  - first:
+      213: 9007620120092492955
+    second: sheet_face_19
+  - first:
+      213: 8779120902846903678
+    second: sheet_face_20
+  - first:
+      213: -3792071096379960116
+    second: brownBrow_2
+  - first:
+      213: 5167604566255424079
+    second: redBrow_3
+  - first:
+      213: -3979385971288588030
+    second: sheet_face_23
+  - first:
+      213: -2823117672025045575
+    second: blondeBrow_2
+  - first:
+      213: -5295293430752340412
+    second: sheet_face_25
+  - first:
+      213: -3006599194504058143
+    second: redBrow_2
+  - first:
+      213: 7084094879280487862
+    second: eyeBlue_large
+  - first:
+      213: 5467077584606158055
+    second: eyePine_large
+  - first:
+      213: -3377078361400621455
+    second: eyeBrown_large
+  - first:
+      213: -3726846406388038664
+    second: eyeBlack_large
+  - first:
+      213: -8702519940648338400
+    second: eyeGreen_small
+  - first:
+      213: -8702519940648338400
+    second: eyeBlue_small
+  - first:
+      213: -4144718182130744794
+    second: eyeGreen_small
+  - first:
+      213: 5358619398387085401
+    second: eyePine_small
+  - first:
+      213: -6004005793695890454
+    second: eyeBlack_small
+  - first:
+      213: -7089803984418125677
+    second: eyeBrown_small
+  - first:
+      213: 2139517025575894240
+    second: mouth_oh
+  - first:
+      213: 3400376895117539289
+    second: mouth_glad
+  - first:
+      213: 8219268208081896997
+    second: mouth_sad
+  - first:
+      213: -2498164286531428933
+    second: mouth_straight
+  - first:
+      213: -1580473549833709342
+    second: mouth_teethUpper
+  - first:
+      213: -5856419911400540374
+    second: mouth_teethLower
+  - first:
+      213: -638218264675067418
+    second: blackBrow_1
+  - first:
+      213: -3474381431020220221
+    second: redBrow_1
+  - first:
+      213: 1887502567710075955
+    second: blondeBrow_1
+  - first:
+      213: 6275442714744768347
+    second: whiteBrow_1
+  - first:
+      213: -5184064586848286153
+    second: tanBrow_1
+  - first:
+      213: 6174063878100288633
+    second: brownBrow_1
+  - first:
+      213: -7627897101728100004
+    second: darkBrownBrow_1
+  - first:
+      213: -5136363336775968695
+    second: greyBrow_1
+  - first:
+      213: -8639005130834215486
+    second: tanBrow_2
+  - first:
+      213: -1668570249724503533
+    second: greyBrow_2
+  - first:
+      213: -955113575998465441
+    second: blackBrow_2
+  - first:
+      213: -7736025212504355865
+    second: whiteBrow_2
+  - first:
+      213: -4874101386306472223
+    second: whiteBrow_3
+  - first:
+      213: 3669433079225607140
+    second: tanBrow_3
+  - first:
+      213: -607031531452118994
+    second: blackBrow_3
+  - first:
+      213: 8689620659237889006
+    second: greyBrow_3
+  - first:
+      213: 7687735926488914653
+    second: darkBrownBrow_3
+  - first:
+      213: 1212999905842601219
+    second: blondeBrow_3
+  - first:
+      213: 9070577867964685275
+    second: brownBrow_3
+  - first:
+      213: 6781433081359703116
+    second: tint7_nose_1
+  - first:
+      213: 3113723232796351438
+    second: tint7_nose_3
+  - first:
+      213: -5024303186042478651
+    second: tint7_nose_2
+  - first:
+      213: 4395597620155194124
+    second: tint5_nose_1
+  - first:
+      213: -8037962342262459418
+    second: tint5_nose_3
+  - first:
+      213: -2720453668649685134
+    second: tint5_nose_2
+  - first:
+      213: -3658191076400056917
+    second: tint4_nose_3
+  - first:
+      213: -2502128945974534783
+    second: tint4_nose_1
+  - first:
+      213: 2019667304659209147
+    second: tint4_nose_2
+  - first:
+      213: -4399762405501458956
+    second: tint3_nose_1
+  - first:
+      213: -2449756408169103723
+    second: tint3_nose_2
+  - first:
+      213: -1626029711981352884
+    second: tint3_nose_3
+  - first:
+      213: -5410202882894946024
+    second: tint1_nose_2
+  - first:
+      213: -2033274127504107372
+    second: tint1_nose_1
+  - first:
+      213: -4777625634323529799
+    second: tint1_nose_3
+  - first:
+      213: 8743774533572330122
+    second: tint2_nose_3
+  - first:
+      213: -9071059753213080820
+    second: tint2_nose_2
+  - first:
+      213: 6372848443995161573
+    second: tint2_nose_1
+  - first:
+      213: -2019739255547612246
+    second: tint8_nose_2
+  - first:
+      213: 5373570514373847599
+    second: tint8_nose_3
+  - first:
+      213: 4194490499415273248
+    second: tint8_nose_1
+  - first:
+      213: 591721228270659220
+    second: tint6_nose_1
+  - first:
+      213: -5539303915791789014
+    second: tint6_nose_2
+  - first:
+      213: -2058614230380841425
+    second: tint6_nose_3
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: brownBrow_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 41
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc41f39dd6bdf5bc0800000000000000
+      internalID: -3792071096379960116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redBrow_3
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 134
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42575f49f407b740800000000000000
+      internalID: 5167604566255424079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blondeBrow_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 41
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5c1df4f6542d8d0800000000000000
+      internalID: -2823117672025045575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redBrow_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 41
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea2c9556f96646d0800000000000000
+      internalID: -3006599194504058143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeBlue_large
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 126
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd5da272c2cf4260800000000000000
+      internalID: 7084094879280487862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeGreen_large
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 162
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e431bd3174571c0800000000000000
+      internalID: -4506617701508887032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyePine_large
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 183
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec53fde816fedb40800000000000000
+      internalID: 5467077584606158055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeBrown_large
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 204
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176ce027f153221d0800000000000000
+      internalID: -3377078361400621455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeBlack_large
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 225
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3ccc660f4974cc0800000000000000
+      internalID: -3726846406388038664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeBlue_small
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 260
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cf6eec8307a3780800000000000000
+      internalID: -8702519940648338400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeGreen_small
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 281
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6228ef3e5c00b76c0800000000000000
+      internalID: -4144718182130744794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyePine_small
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 312
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950316f93f3ad5a40800000000000000
+      internalID: 5358619398387085401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeBlack_small
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 328
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae38e5d8a8c7daca0800000000000000
+      internalID: -6004005793695890454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeBrown_small
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 344
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398cb9de6d4fb9d90800000000000000
+      internalID: -7089803984418125677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mouth_oh
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 297
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecf95c266711bd10800000000000000
+      internalID: 2139517025575894240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mouth_happy
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 78
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b09cbd77c7dd7a0800000000000000
+      internalID: -6350783045292193015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mouth_glad
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 246
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d73de725c0903f20800000000000000
+      internalID: 3400376895117539289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mouth_sad
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526026043e4b01270800000000000000
+      internalID: 8219268208081896997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mouth_straight
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 36
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd1ab631dcb45dd0800000000000000
+      internalID: -2498164286531428933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mouth_teethUpper
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 91
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8d24d1ea7011ae0800000000000000
+      internalID: -1580473549833709342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mouth_teethLower
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 104
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2732758e11d9bea0800000000000000
+      internalID: -5856419911400540374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackBrow_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 66
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e950e4aed79427f0800000000000000
+      internalID: -638218264675067418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redBrow_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 46
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c093dd1f7488cfc0800000000000000
+      internalID: -3474381431020220221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blondeBrow_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 117
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c2ffcb591c13a10800000000000000
+      internalID: 1887502567710075955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whiteBrow_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 12
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57ccac76e9d61750800000000000000
+      internalID: 6275442714744768347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanBrow_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 83
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ac93089b08e08b0800000000000000
+      internalID: -5184064586848286153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brownBrow_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 49
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9740db2b26eaea550800000000000000
+      internalID: 6174063878100288633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkBrownBrow_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51d3441004442690800000000000000
+      internalID: -7627897101728100004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greyBrow_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948d02242c8f7b8b0800000000000000
+      internalID: -5136363336775968695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkBrownBrow_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 41
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885f0786298337fd0800000000000000
+      internalID: -2345468779461282424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanBrow_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 41
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd79dbda961c1880800000000000000
+      internalID: -8639005130834215486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greyBrow_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 41
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ad266c23c08d8e0800000000000000
+      internalID: -1668570249724503533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackBrow_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 41
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a55765341ceb2f0800000000000000
+      internalID: -955113575998465441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whiteBrow_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 41
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb46337e0e14a490800000000000000
+      internalID: -7736025212504355865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whiteBrow_3
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 117
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6b6fdfc96bb5cb0800000000000000
+      internalID: -4874101386306472223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanBrow_3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 134
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e36f4ea1f17ce230800000000000000
+      internalID: 3669433079225607140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackBrow_3
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 100
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28c550d9046397f0800000000000000
+      internalID: -607031531452118994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greyBrow_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee325c233fbb79870800000000000000
+      internalID: 8689620659237889006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkBrownBrow_3
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 29
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda5161081350ba60800000000000000
+      internalID: 7687735926488914653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blondeBrow_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d9454dcf075d010800000000000000
+      internalID: 1212999905842601219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brownBrow_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 15
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb1e8f438a21ed70800000000000000
+      internalID: 9070577867964685275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint7_nose_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 225
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c178a357d7c1e50800000000000000
+      internalID: 6781433081359703116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint7_nose_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 15
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb15b378ca263b20800000000000000
+      internalID: 3113723232796351438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint7_nose_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 423
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf13184fd6164ab0800000000000000
+      internalID: -5024303186042478651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint5_nose_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 318
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b17e42fbc400d30800000000000000
+      internalID: 4395597620155194124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint5_nose_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 30
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3ba7f26db637090800000000000000
+      internalID: -8037962342262459418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint5_nose_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 399
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f2a3c4dc10f3ad0800000000000000
+      internalID: -2720453668649685134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint4_nose_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5bba2199e7b3dc0800000000000000
+      internalID: -3658191076400056917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint4_nose_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 339
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d17f00bf6a64dd0800000000000000
+      internalID: -2502128945974534783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint4_nose_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 375
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbcea286bc470c10800000000000000
+      internalID: 2019667304659209147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint3_nose_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 276
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5a7f33767e0f2c0800000000000000
+      internalID: -4399762405501458956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint3_nose_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 488
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ef7d0b687b00ed0800000000000000
+      internalID: -2449756408169103723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint3_nose_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 261
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48ee1f879e2f69e0800000000000000
+      internalID: -1626029711981352884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint1_nose_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 69
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811a04a74291be4b0800000000000000
+      internalID: -5410202882894946024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint1_nose_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 297
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498102b24fb58c3e0800000000000000
+      internalID: -2033274127504107372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint1_nose_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 360
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf785c6cc672bdb0800000000000000
+      internalID: -4777625634323529799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint2_nose_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 449
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a828fad9c90285970800000000000000
+      internalID: 8743774533572330122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint2_nose_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 464
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b4469073f1d1280800000000000000
+      internalID: -9071059753213080820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint2_nose_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 204
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e38bbf15e7e07850800000000000000
+      internalID: 6372848443995161573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint8_nose_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 45
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa33c2e19d178f3e0800000000000000
+      internalID: -2019739255547612246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint8_nose_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a24c499e1c29a40800000000000000
+      internalID: 5373570514373847599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint8_nose_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 162
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fe567c2e2d53a30800000000000000
+      internalID: 4194490499415273248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint6_nose_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 183
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49661217257363800800000000000000
+      internalID: 591721228270659220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint6_nose_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 93
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24dc44ef607023b0800000000000000
+      internalID: -5539303915791789014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint6_nose_3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 147
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26f594b3455e63e0800000000000000
+      internalID: -2058614230380841425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

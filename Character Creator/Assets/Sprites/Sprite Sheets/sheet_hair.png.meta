@@ -1,0 +1,3136 @@
+fileFormatVersion: 2
+guid: 7938352c918221d4590675d5ef30d060
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2530485722375810391
+    second: white_male_5
+  - first:
+      213: -5370916962501901305
+    second: brown_female_4
+  - first:
+      213: -8346920074669104882
+    second: sheet_hair_2
+  - first:
+      213: -7570872382646623709
+    second: sheet_hair_3
+  - first:
+      213: -172636389391111483
+    second: sheet_hair_4
+  - first:
+      213: 3476499085656419711
+    second: sheet_hair_5
+  - first:
+      213: 4682404793034568952
+    second: sheet_hair_6
+  - first:
+      213: 5253381460454704097
+    second: sheet_hair_7
+  - first:
+      213: 2529487944483202905
+    second: darkBrown_male_5
+  - first:
+      213: 468643638318963395
+    second: sheet_hair_9
+  - first:
+      213: 2894240977587461660
+    second: sheet_hair_10
+  - first:
+      213: 3044096760659911447
+    second: sheet_hair_11
+  - first:
+      213: 5796151115370978102
+    second: sheet_hair_12
+  - first:
+      213: 4976351094872884610
+    second: sheet_hair_13
+  - first:
+      213: -6453413293502664754
+    second: sheet_hair_14
+  - first:
+      213: -6320662431308693854
+    second: sheet_hair_15
+  - first:
+      213: 1781384672413550725
+    second: sheet_hair_16
+  - first:
+      213: 3982523514276313597
+    second: blonde_male_5
+  - first:
+      213: -2776546730049892124
+    second: sheet_hair_18
+  - first:
+      213: 5658883156416306631
+    second: sheet_hair_19
+  - first:
+      213: -7388868015108230027
+    second: sheet_hair_20
+  - first:
+      213: 2473514516458634394
+    second: sheet_hair_21
+  - first:
+      213: 2877010292542083268
+    second: red_male_3
+  - first:
+      213: -6904706240202722836
+    second: sheet_hair_23
+  - first:
+      213: 7273038843538968240
+    second: sheet_hair_24
+  - first:
+      213: 6042200005025686334
+    second: sheet_hair_25
+  - first:
+      213: -1341268378385629707
+    second: sheet_hair_26
+  - first:
+      213: 1818952431381929159
+    second: grey_male_5
+  - first:
+      213: -8089504009037371831
+    second: sheet_hair_28
+  - first:
+      213: -7421709277876275692
+    second: sheet_hair_29
+  - first:
+      213: 6054037786449507103
+    second: sheet_hair_30
+  - first:
+      213: -5092250944519112347
+    second: sheet_hair_31
+  - first:
+      213: 1365532321459110452
+    second: sheet_hair_32
+  - first:
+      213: 7809152787691634426
+    second: sheet_hair_33
+  - first:
+      213: 8820541878384890146
+    second: sheet_hair_34
+  - first:
+      213: 7096152472028978668
+    second: sheet_hair_35
+  - first:
+      213: 656928756252788210
+    second: sheet_hair_36
+  - first:
+      213: 489379861978219915
+    second: tan_male_5
+  - first:
+      213: 1333054694236185515
+    second: sheet_hair_38
+  - first:
+      213: -9187274487841841748
+    second: sheet_hair_39
+  - first:
+      213: 2775185232958649884
+    second: sheet_hair_40
+  - first:
+      213: -6980067142080781603
+    second: sheet_hair_41
+  - first:
+      213: 7117586194988543027
+    second: sheet_hair_42
+  - first:
+      213: 5560576341046503162
+    second: sheet_hair_43
+  - first:
+      213: 325563432345606406
+    second: sheet_hair_44
+  - first:
+      213: -4160906926868833610
+    second: brown_male_5
+  - first:
+      213: 7597195934620640934
+    second: sheet_hair_46
+  - first:
+      213: 4558759519998727186
+    second: sheet_hair_47
+  - first:
+      213: 6978569843377652334
+    second: sheet_hair_48
+  - first:
+      213: 6893560190844199776
+    second: sheet_hair_49
+  - first:
+      213: 5925686674793951928
+    second: white_male_3
+  - first:
+      213: -7125412238286402423
+    second: darkBrown_male_4
+  - first:
+      213: 426579837588945439
+    second: red_male_5
+  - first:
+      213: -4752565042921368686
+    second: sheet_hair_53
+  - first:
+      213: 4492301985421811380
+    second: sheet_hair_54
+  - first:
+      213: -2694338403800322783
+    second: sheet_hair_55
+  - first:
+      213: 3431008663247228315
+    second: white_male_4
+  - first:
+      213: 6547043635557364315
+    second: white_male_2
+  - first:
+      213: -4437136454083428254
+    second: sheet_hair_58
+  - first:
+      213: 8600721761533842009
+    second: sheet_hair_59
+  - first:
+      213: 3604210939544983512
+    second: sheet_hair_60
+  - first:
+      213: -3658840523586612835
+    second: sheet_hair_61
+  - first:
+      213: 708525301269025389
+    second: sheet_hair_62
+  - first:
+      213: 7795130834864488305
+    second: sheet_hair_63
+  - first:
+      213: -5336176333932702662
+    second: sheet_hair_64
+  - first:
+      213: -5590026874632347303
+    second: sheet_hair_65
+  - first:
+      213: 1057596096782157432
+    second: black_male_5
+  - first:
+      213: -4698314980375893234
+    second: white_male_1
+  - first:
+      213: 8227753185562386147
+    second: sheet_hair_68
+  - first:
+      213: 629708542822181172
+    second: sheet_hair_69
+  - first:
+      213: 1054332612449555928
+    second: sheet_hair_70
+  - first:
+      213: 853867578411520742
+    second: sheet_hair_71
+  - first:
+      213: 791993312977315662
+    second: tan_female_4
+  - first:
+      213: 6909307129081114016
+    second: sheet_hair_73
+  - first:
+      213: -3370737705929847874
+    second: sheet_hair_74
+  - first:
+      213: 7465477424787407295
+    second: sheet_hair_75
+  - first:
+      213: 6871626156106177658
+    second: sheet_hair_76
+  - first:
+      213: 7212529053771015279
+    second: sheet_hair_77
+  - first:
+      213: -5048540870316943701
+    second: brown_male_7
+  - first:
+      213: 7766551946325459850
+    second: sheet_hair_79
+  - first:
+      213: -4880172956506828953
+    second: sheet_hair_80
+  - first:
+      213: -5284942570012314386
+    second: sheet_hair_81
+  - first:
+      213: -81209420661693932
+    second: sheet_hair_82
+  - first:
+      213: -905713304425983782
+    second: sheet_hair_83
+  - first:
+      213: 751926301489325639
+    second: sheet_hair_84
+  - first:
+      213: -6552746673728408969
+    second: grey_male_6
+  - first:
+      213: -682603620295119787
+    second: blonde_male_2
+  - first:
+      213: 384346889750242855
+    second: darkBrown_female_4
+  - first:
+      213: 7109468566166280821
+    second: sheet_hair_88
+  - first:
+      213: 6800965924393162606
+    second: sheet_hair_89
+  - first:
+      213: 2289052477759824858
+    second: sheet_hair_90
+  - first:
+      213: -4698043544709532119
+    second: sheet_hair_91
+  - first:
+      213: 5368279134603956614
+    second: sheet_hair_92
+  - first:
+      213: 5054020552486207419
+    second: black_male_4
+  - first:
+      213: 6240808850705296014
+    second: sheet_hair_94
+  - first:
+      213: -8853593194184593938
+    second: sheet_hair_95
+  - first:
+      213: -5379887465163230841
+    second: sheet_hair_96
+  - first:
+      213: 754195339210108549
+    second: sheet_hair_97
+  - first:
+      213: 5505860822892000268
+    second: sheet_hair_98
+  - first:
+      213: -2249819865584734059
+    second: sheet_hair_99
+  - first:
+      213: 8617654973529506720
+    second: sheet_hair_100
+  - first:
+      213: 4175517018692642280
+    second: sheet_hair_101
+  - first:
+      213: -3190713365492716967
+    second: sheet_hair_102
+  - first:
+      213: -8777434798308637422
+    second: sheet_hair_103
+  - first:
+      213: 8765897102974687490
+    second: sheet_hair_104
+  - first:
+      213: 3520331605652852827
+    second: sheet_hair_105
+  - first:
+      213: 4490937217260847324
+    second: sheet_hair_106
+  - first:
+      213: -5776739538347868476
+    second: tan_male_6
+  - first:
+      213: 6637743081651574551
+    second: sheet_hair_108
+  - first:
+      213: 3785448498856064242
+    second: sheet_hair_109
+  - first:
+      213: 6834283356859892358
+    second: sheet_hair_110
+  - first:
+      213: 8115487150671793641
+    second: sheet_hair_111
+  - first:
+      213: -5346643763421009271
+    second: red_female_4
+  - first:
+      213: 1872325704204665788
+    second: grey_male_4
+  - first:
+      213: -804221123853452316
+    second: sheet_hair_114
+  - first:
+      213: 5383230154649517685
+    second: sheet_hair_115
+  - first:
+      213: 7026796124505370726
+    second: sheet_hair_116
+  - first:
+      213: -6151132827451399239
+    second: sheet_hair_117
+  - first:
+      213: 3397196668814713812
+    second: sheet_hair_118
+  - first:
+      213: -1836265307840440078
+    second: sheet_hair_119
+  - first:
+      213: -5298879346380042171
+    second: grey_male_3
+  - first:
+      213: -1013926227621203575
+    second: blonde_male_7
+  - first:
+      213: 7154934671643706496
+    second: tan_male_4
+  - first:
+      213: -2183072957900593612
+    second: sheet_hair_123
+  - first:
+      213: 8738908362988315046
+    second: sheet_hair_124
+  - first:
+      213: 4495086307988568854
+    second: sheet_hair_125
+  - first:
+      213: -2310368186271200599
+    second: sheet_hair_126
+  - first:
+      213: 4815607466861252016
+    second: sheet_hair_127
+  - first:
+      213: 5605987133233832268
+    second: sheet_hair_128
+  - first:
+      213: 4885930682018791455
+    second: red_male_7
+  - first:
+      213: 464276433040201000
+    second: grey_male_2
+  - first:
+      213: -754166439507824925
+    second: sheet_hair_131
+  - first:
+      213: -5272667930600180786
+    second: sheet_hair_132
+  - first:
+      213: 4570770349625526862
+    second: sheet_hair_133
+  - first:
+      213: -8922865520091356330
+    second: sheet_hair_134
+  - first:
+      213: -4815645400700200572
+    second: sheet_hair_135
+  - first:
+      213: -6663732428769823000
+    second: sheet_hair_136
+  - first:
+      213: 5972955290178523518
+    second: black_male_7
+  - first:
+      213: -2877353938411297071
+    second: sheet_hair_138
+  - first:
+      213: -2248790040103362813
+    second: sheet_hair_139
+  - first:
+      213: -7761232548290689205
+    second: sheet_hair_140
+  - first:
+      213: -6524027197494790035
+    second: sheet_hair_141
+  - first:
+      213: -3569759308089604749
+    second: sheet_hair_142
+  - first:
+      213: -367570097072103731
+    second: white_female_5
+  - first:
+      213: 304282950048345156
+    second: brown_female_5
+  - first:
+      213: 5052087869172298763
+    second: blonde_female_5
+  - first:
+      213: -1661359306901727181
+    second: grey_female_5
+  - first:
+      213: -7269209024476816236
+    second: black_female_5
+  - first:
+      213: 8535255012478752687
+    second: darkBrown_female_5
+  - first:
+      213: 4036741988052865067
+    second: red_female_5
+  - first:
+      213: -4845280367834891075
+    second: tan_female_5
+  - first:
+      213: -186888993861153260
+    second: tan_female_1
+  - first:
+      213: -4873476738139521800
+    second: brown_female_1
+  - first:
+      213: -8336486997299550070
+    second: white_female_1
+  - first:
+      213: -7487443869737355998
+    second: blonde_female_1
+  - first:
+      213: 4333005798941240542
+    second: black_female_1
+  - first:
+      213: -6215735310922715931
+    second: darkBrown_female_1
+  - first:
+      213: -6180769515785804001
+    second: red_female_1
+  - first:
+      213: -5501715528805675799
+    second: grey_female_1
+  - first:
+      213: -510955203005265225
+    second: black_female_6
+  - first:
+      213: -2260605205206424044
+    second: red_female_6
+  - first:
+      213: -6724698725296660131
+    second: tan_female_6
+  - first:
+      213: 8263085735829761445
+    second: brown_female_6
+  - first:
+      213: 4730840499783027831
+    second: darkBrown_female_6
+  - first:
+      213: -7569701345755441144
+    second: blonde_female_6
+  - first:
+      213: -4416055983419404690
+    second: white_female_6
+  - first:
+      213: 777571091293661186
+    second: grey_female_6
+  - first:
+      213: -7864346200145349359
+    second: blonde_female_3
+  - first:
+      213: -2965759114420171084
+    second: brown_female_3
+  - first:
+      213: -2925363944858314486
+    second: black_female_3
+  - first:
+      213: -2712792893177649928
+    second: darkBrown_female_3
+  - first:
+      213: 1930518571868673813
+    second: grey_female_3
+  - first:
+      213: -5577918436347058911
+    second: tan_female_3
+  - first:
+      213: 852730352795127561
+    second: red_female_3
+  - first:
+      213: 3744017750889576186
+    second: white_female_3
+  - first:
+      213: 1859435629763277468
+    second: white_female_4
+  - first:
+      213: 4211803584014316271
+    second: grey_female_4
+  - first:
+      213: -5891772577970920507
+    second: blonde_female_4
+  - first:
+      213: -4432581401822266392
+    second: black_female_4
+  - first:
+      213: -2701133988308829795
+    second: tan_female_2_3
+  - first:
+      213: -2701133988308829795
+    second: black_female_2
+  - first:
+      213: -1489866549214518771
+    second: tan_female_2_3
+  - first:
+      213: 2723393749119534533
+    second: grey_female_2
+  - first:
+      213: -7673810612857340481
+    second: red_female_2
+  - first:
+      213: -4596946887304621026
+    second: white_female_2
+  - first:
+      213: -835722772289876945
+    second: blonde_female_2
+  - first:
+      213: 5289577791739275342
+    second: darkBrown_female_2
+  - first:
+      213: -672934652948799279
+    second: brown_female_2
+  - first:
+      213: -5915511750957314754
+    second: black_male_1
+  - first:
+      213: 2518212517710601341
+    second: darkBrown_male_1
+  - first:
+      213: 4967877102970303422
+    second: tan_male_1
+  - first:
+      213: 3271170331682332019
+    second: red_male_1
+  - first:
+      213: 781052413104128126
+    second: grey_male_1
+  - first:
+      213: -9210570776257533292
+    second: blonde_male_1
+  - first:
+      213: 791472985897988138
+    second: brown_male_1
+  - first:
+      213: 9013135097449260846
+    second: black_male_2
+  - first:
+      213: -6913896604598391569
+    second: red_male_2
+  - first:
+      213: -8266271073955046514
+    second: tan_male_2
+  - first:
+      213: 987671895355069846
+    second: brown_male_2
+  - first:
+      213: 5962861100415199681
+    second: darkBrown_male_2
+  - first:
+      213: -4664823884737151377
+    second: tan_male_3
+  - first:
+      213: -917388924902911133
+    second: black_male_3
+  - first:
+      213: 8135813490249944651
+    second: blonde_male_3
+  - first:
+      213: 7752685299678590307
+    second: darkBrown_male_3
+  - first:
+      213: -420659897685226750
+    second: brown_male_3
+  - first:
+      213: -2365191901727936050
+    second: brown_male_4
+  - first:
+      213: 8462649451199230339
+    second: blonde_male_4
+  - first:
+      213: 7090752212478612282
+    second: red_male_4
+  - first:
+      213: -2054141526860528060
+    second: black_male_6
+  - first:
+      213: 8635216553266566392
+    second: darkBrown_male_6
+  - first:
+      213: -5664532979668339925
+    second: white_male_6
+  - first:
+      213: -9113721889873406931
+    second: red_male_6
+  - first:
+      213: -720244036392913963
+    second: brown_male_6
+  - first:
+      213: -3600650352431348785
+    second: blonde_male_6
+  - first:
+      213: -2671199511035894878
+    second: darkBrown_male_7
+  - first:
+      213: 5550462371382419081
+    second: tan_male_7
+  - first:
+      213: 5232802767523257563
+    second: grey_male_7
+  - first:
+      213: 7579171964702847852
+    second: white_male_7
+  - first:
+      213: 8840465783395188775
+    second: grey_male_8
+  - first:
+      213: 4781793490668621503
+    second: brown_male_8
+  - first:
+      213: 8972316614122553226
+    second: blonde_male_8
+  - first:
+      213: -4897828688739808057
+    second: red_male_8
+  - first:
+      213: -5568022391975583953
+    second: white_male_8
+  - first:
+      213: 772321791763225263
+    second: darkBrown_male_8
+  - first:
+      213: -6800669205636648255
+    second: tan_male_8
+  - first:
+      213: 8331969705928919007
+    second: black_male_8
+  - first:
+      213: -1489866549214518771
+    second: tan_female_2
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: white_male_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1918
+        width: 171
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2979084a8e1ecd0800000000000000
+      internalID: -2530485722375810391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkBrown_male_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1788
+        width: 171
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957ed8a32eb8a1320800000000000000
+      internalID: 2529487944483202905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blonde_male_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1658
+        width: 171
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df974123904c44730800000000000000
+      internalID: 3982523514276313597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_male_3
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1643
+        width: 159
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c01d163e913de720800000000000000
+      internalID: 2877010292542083268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grey_male_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1528
+        width: 171
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc5adf59973e3910800000000000000
+      internalID: 1818952431381929159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tan_male_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1398
+        width: 171
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8501714460aac600800000000000000
+      internalID: 489379861978219915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_male_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1268
+        width: 171
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba5588023d7146c0800000000000000
+      internalID: -4160906926868833610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_male_3
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1356
+        width: 159
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2fb5592a44c3250800000000000000
+      internalID: 5925686674793951928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkBrown_male_4
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1286
+        width: 158
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cc7b242537d1d90800000000000000
+      internalID: -7125412238286402423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_male_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1138
+        width: 171
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a35d72a148be500800000000000000
+      internalID: 426579837588945439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_male_4
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1190
+        width: 159
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d832273346d9f20800000000000000
+      internalID: 3431008663247228315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_male_2
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1218
+        width: 159
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52f062bf75cbda50800000000000000
+      internalID: 6547043635557364315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_male_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 171
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8764a80fb065dae00800000000000000
+      internalID: 1057596096782157432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_male_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1021
+        width: 159
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b6cc70b6b3cceb0800000000000000
+      internalID: -4698314980375893234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tan_female_4
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 786
+        width: 158
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e476f74d8b9bdfa00800000000000000
+      internalID: 791993312977315662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_male_7
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 882
+        width: 158
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba697b6a3daffe9b0800000000000000
+      internalID: -5048540870316943701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grey_male_6
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 714
+        width: 159
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772bb414e97ff05a0800000000000000
+      internalID: -6552746673728408969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blonde_male_2
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 704
+        width: 159
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ce9e9bf97e686f0800000000000000
+      internalID: -682603620295119787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkBrown_female_4
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 596
+        width: 158
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726e61ab579755500800000000000000
+      internalID: 384346889750242855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_male_4
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 667
+        width: 158
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfb6764aec732640800000000000000
+      internalID: 5054020552486207419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tan_male_6
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 411
+        width: 158
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce32d01ff5e4dfa0800000000000000
+      internalID: -5776739538347868476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_female_4
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 215
+        width: 159
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98aabbc23d7ecc5b0800000000000000
+      internalID: -5346643763421009271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grey_male_4
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 310
+        width: 159
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3c3f6de46dbf910800000000000000
+      internalID: 1872325704204665788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grey_male_3
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 191
+        width: 159
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5401d532f499676b0800000000000000
+      internalID: -5298879346380042171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blonde_male_7
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 228
+        width: 159
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981bf2ec77fcde1f0800000000000000
+      internalID: -1013926227621203575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tan_male_4
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 220
+        width: 158
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0840376ec2f6b4360800000000000000
+      internalID: 7154934671643706496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_male_7
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 96
+        width: 159
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1089ea81105ec340800000000000000
+      internalID: 4885930682018791455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grey_male_2
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 53
+        width: 159
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82552fcb4f0717600800000000000000
+      internalID: 464276433040201000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_male_7
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 7
+        width: 158
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71916ab03334e250800000000000000
+      internalID: 5972955290178523518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_female_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 582
+        width: 168
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce16f5b1f026eaf0800000000000000
+      internalID: -367570097072103731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_female_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 795
+        width: 168
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ce6dc1bb7093400800000000000000
+      internalID: 304282950048345156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blonde_female_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 795
+        width: 168
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b043310662f9c1640800000000000000
+      internalID: 5052087869172298763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grey_female_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 582
+        width: 168
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33855db338aa1f8e0800000000000000
+      internalID: -1661359306901727181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_female_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 369
+        width: 168
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cdef9f7e49e1b90800000000000000
+      internalID: -7269209024476816236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkBrown_female_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 369
+        width: 168
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa71b2e4631537670800000000000000
+      internalID: 8535255012478752687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_female_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 168
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b209bc75373650830800000000000000
+      internalID: 4036741988052865067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tan_female_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 156
+        width: 168
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcf6064d2b12ccb0800000000000000
+      internalID: -4845280367834891075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tan_female_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1821
+        width: 165
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ec9744379086df0800000000000000
+      internalID: -186888993861153260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_female_1
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1821
+        width: 165
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc701a3abeed5cb0800000000000000
+      internalID: -4873476738139521800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_female_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1594
+        width: 165
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a882c4b9e39de4c80800000000000000
+      internalID: -8336486997299550070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blonde_female_1
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1594
+        width: 165
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225f0ac7871471890800000000000000
+      internalID: -7487443869737355998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_female_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1367
+        width: 165
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edca99f11dde12c30800000000000000
+      internalID: 4333005798941240542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkBrown_female_1
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1367
+        width: 165
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec6996caa54db9a0800000000000000
+      internalID: -6215735310922715931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_female_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1140
+        width: 165
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17260d5fde793aa0800000000000000
+      internalID: -6180769515785804001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grey_female_1
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1140
+        width: 165
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec894a30eaf5a3b0800000000000000
+      internalID: -5501715528805675799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_female_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 927
+        width: 164
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bacbb433f8b8e8f0800000000000000
+      internalID: -510955203005265225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_female_6
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 927
+        width: 164
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416a5460b87b0a0e0800000000000000
+      internalID: -2260605205206424044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tan_female_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 714
+        width: 164
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51ab2963221da2a0800000000000000
+      internalID: -6724698725296660131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_female_6
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 714
+        width: 164
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adeab072b06ca270800000000000000
+      internalID: 8263085735829761445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkBrown_female_6
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 501
+        width: 164
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c49969e5257a140800000000000000
+      internalID: 4730840499783027831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blonde_female_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 501
+        width: 164
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80853766bb403f690800000000000000
+      internalID: -7569701345755441144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_female_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 288
+        width: 164
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e4c08fa7407b2c0800000000000000
+      internalID: -4416055983419404690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grey_female_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 75
+        width: 164
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208eb2ca9cc7aca00800000000000000
+      internalID: 777571091293661186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blonde_female_3
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1821
+        width: 160
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115b4ad4cca3cd290800000000000000
+      internalID: -7864346200145349359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_female_3
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1821
+        width: 160
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4becb977cc187d6d0800000000000000
+      internalID: -2965759114420171084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_female_3
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1594
+        width: 160
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a091cfbcdf40767d0800000000000000
+      internalID: -2925363944858314486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkBrown_female_3
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1594
+        width: 160
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f421f49c393a5ad0800000000000000
+      internalID: -2712792893177649928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grey_female_3
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1367
+        width: 160
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517d68ca9649aca10800000000000000
+      internalID: 1930518571868673813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tan_female_3
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1140
+        width: 160
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1256e673cb04792b0800000000000000
+      internalID: -5577918436347058911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_female_3
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 274
+        width: 161
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f0c87ecb185db00800000000000000
+      internalID: 852730352795127561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_female_3
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 47
+        width: 161
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6b78ace4c65f330800000000000000
+      internalID: 3744017750889576186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_female_4
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1762
+        width: 159
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92beb28ada0ec910800000000000000
+      internalID: 1859435629763277468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grey_female_4
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1643
+        width: 158
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2f3e86b05537a30800000000000000
+      internalID: 4211803584014316271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_female_4
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1357
+        width: 158
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70444fb9a7ba675b0800000000000000
+      internalID: -5370916962501901305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blonde_female_4
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1358
+        width: 158
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3e7a86e083c3ea0800000000000000
+      internalID: -5891772577970920507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_female_4
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 1072
+        width: 158
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb716a23be4c72c0800000000000000
+      internalID: -4432581401822266392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_female_2
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 126
+        width: 158
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d993e18e2f4a38ad0800000000000000
+      internalID: -2701133988308829795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grey_female_2
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1763
+        width: 158
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c50ac78f207bc520800000000000000
+      internalID: 2723393749119534533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_female_2
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1309
+        width: 159
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdf30bb7e5218590800000000000000
+      internalID: -7673810612857340481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_female_2
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 429
+        width: 159
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14ded2692d5430c0800000000000000
+      internalID: -4596946887304621026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blonde_female_2
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 649
+        width: 158
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c05f2019ae664f0800000000000000
+      internalID: -835722772289876945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkBrown_female_2
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 934
+        width: 158
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e482a68e9fa586940800000000000000
+      internalID: 5289577791739275342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_female_2
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1001
+        width: 158
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0afed9f7149a6f0800000000000000
+      internalID: -672934652948799279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_male_1
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1405
+        width: 158
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d4a8b7761e7eda0800000000000000
+      internalID: -5915511750957314754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkBrown_male_1
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1524
+        width: 158
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c151b51fc72f220800000000000000
+      internalID: 2518212517710601341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tan_male_1
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1644
+        width: 158
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3775a77e171f440800000000000000
+      internalID: 4967877102970303422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_male_1
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1071
+        width: 159
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37dd8b3d518856d20800000000000000
+      internalID: 3271170331682332019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grey_male_1
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 961
+        width: 159
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e708802180bd6da00800000000000000
+      internalID: 781052413104128126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blonde_male_1
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 842
+        width: 159
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a639ebdaa7d2080800000000000000
+      internalID: -9210570776257533292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_male_1
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 339
+        width: 158
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2074cdbc70ebfa00800000000000000
+      internalID: 791472985897988138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_male_2
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 1791
+        width: 158
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27a1141e96151d70800000000000000
+      internalID: 9013135097449260846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_male_2
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1080
+        width: 159
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec22256ba7ec00a0800000000000000
+      internalID: -6913896604598391569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tan_male_2
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1219
+        width: 158
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b92db314e484d80800000000000000
+      internalID: -8266271073955046514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_male_2
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 458
+        width: 158
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695964d1b5ae4bd00800000000000000
+      internalID: 987671895355069846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkBrown_male_2
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 90
+        width: 158
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c92e37049650c250800000000000000
+      internalID: 5962861100415199681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tan_male_3
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 1672
+        width: 158
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6efb726467334fb0800000000000000
+      internalID: -4664823884737151377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_male_3
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 548
+        width: 158
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363d84222a7c443f0800000000000000
+      internalID: -917388924902911133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blonde_male_3
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 585
+        width: 159
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ecd25934738e070800000000000000
+      internalID: 8135813490249944651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkBrown_male_3
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1929
+        width: 158
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3653cbe5432179b60800000000000000
+      internalID: 7752685299678590307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_male_3
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 109
+        width: 158
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b48334d04892af0800000000000000
+      internalID: -420659897685226750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_male_4
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1810
+        width: 158
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec130e72f762d2fd0800000000000000
+      internalID: -2365191901727936050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blonde_male_4
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 466
+        width: 159
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381726db6de517570800000000000000
+      internalID: 8462649451199230339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_male_4
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 952
+        width: 159
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a335a1f9199676260800000000000000
+      internalID: 7090752212478612282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_male_6
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 1929
+        width: 158
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44689152a293e73e0800000000000000
+      internalID: -2054141526860528060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkBrown_male_6
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 530
+        width: 158
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4d60034b376d770800000000000000
+      internalID: 8635216553266566392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_male_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 159
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23326854498361b0800000000000000
+      internalID: -5664532979668339925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_male_6
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 37
+        width: 159
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24d46c4a3e858180800000000000000
+      internalID: -9113721889873406931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_male_6
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 101
+        width: 158
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3f43b6ddd2106f0800000000000000
+      internalID: -720244036392913963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blonde_male_6
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 347
+        width: 159
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3c1fed49be70ec0800000000000000
+      internalID: -3600650352431348785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkBrown_male_7
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1929
+        width: 158
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a32284823efdead0800000000000000
+      internalID: -2671199511035894878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tan_male_7
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1691
+        width: 158
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98edb618e14370d40800000000000000
+      internalID: 5550462371382419081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grey_male_7
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 833
+        width: 159
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc97e97466ae9840800000000000000
+      internalID: 5232802767523257563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_male_7
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1475
+        width: 159
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6376b7eeb0ae2960800000000000000
+      internalID: 7579171964702847852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grey_male_8
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 0
+        width: 158
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720044c8ac4afaa70800000000000000
+      internalID: 8840465783395188775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_male_8
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 0
+        width: 158
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe049048d75c5240800000000000000
+      internalID: 4781793490668621503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blonde_male_8
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 0
+        width: 158
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f3c155c62148c70800000000000000
+      internalID: 8972316614122553226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_male_8
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 2
+        width: 158
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc42f4e1ca670cb0800000000000000
+      internalID: -4897828688739808057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white_male_8
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 6
+        width: 158
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fdfd892296ab2b0800000000000000
+      internalID: -5568022391975583953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkBrown_male_8
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 49
+        width: 158
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa1752e396d7ba00800000000000000
+      internalID: 772321791763225263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tan_male_8
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1644
+        width: 158
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2f613936b2f91a0800000000000000
+      internalID: -6800669205636648255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_male_8
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1596
+        width: 158
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd785398d4a11a370800000000000000
+      internalID: 8331969705928919007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tan_female_2
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 1359
+        width: 158
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02e453644ee25be0800000000000000
+      internalID: -1489866549214518771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

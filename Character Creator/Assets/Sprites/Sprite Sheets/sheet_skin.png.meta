@@ -1,0 +1,1075 @@
+fileFormatVersion: 2
+guid: 46325c972701f6f479ad939fd7820bf5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 966294333482089241
+    second: tint3_head
+  - first:
+      213: 6374039237324354601
+    second: tint5_neck
+  - first:
+      213: -5107415464458614424
+    second: tint7_leg
+  - first:
+      213: 6663579462427723298
+    second: tint4_neck
+  - first:
+      213: -4600772196698157163
+    second: tint7_neck
+  - first:
+      213: -1859040362991520033
+    second: tint8_neck
+  - first:
+      213: 1781301538662234364
+    second: tint8_hand
+  - first:
+      213: 8042124349083509337
+    second: tint1_arm
+  - first:
+      213: 1134112422975717145
+    second: tint5_arm
+  - first:
+      213: -3027639533706156147
+    second: tint2_arm
+  - first:
+      213: -5477408062388861217
+    second: sheet_skin_10
+  - first:
+      213: -6712601649393284092
+    second: sheet_skin_11
+  - first:
+      213: -6335912338461421566
+    second: tint1_head
+  - first:
+      213: -8455733966871912820
+    second: tint2_head
+  - first:
+      213: -79034284638277510
+    second: tint1_head
+  - first:
+      213: 4246229806049285026
+    second: tint1_head
+  - first:
+      213: 7500849510732052800
+    second: tint4_head
+  - first:
+      213: 3739526926311542467
+    second: tint5_head
+  - first:
+      213: 1834597000886359055
+    second: tint6_head
+  - first:
+      213: 59226737942137644
+    second: tint7_head
+  - first:
+      213: -3781037780917388486
+    second: tint8_head
+  - first:
+      213: -2423485404773244732
+    second: tint3_arm
+  - first:
+      213: -4623038827537056065
+    second: tint4_arm
+  - first:
+      213: -2948296681129581640
+    second: tint6_arm
+  - first:
+      213: 821862333542349796
+    second: tint7_arm
+  - first:
+      213: 7665564567301292999
+    second: tint8_arm
+  - first:
+      213: 8265812572678226816
+    second: tint6_hand
+  - first:
+      213: 6959598106630679284
+    second: tint3_hand
+  - first:
+      213: 8576869036201212736
+    second: tint1_hand
+  - first:
+      213: -707613354972169335
+    second: tint2_hand
+  - first:
+      213: -4157929053704372714
+    second: tint5_hand
+  - first:
+      213: -979858412775853586
+    second: tint4_hand
+  - first:
+      213: 2470047181433347604
+    second: tint7_hand
+  - first:
+      213: -2883409779544701772
+    second: tint5_leg
+  - first:
+      213: -8585030602525418520
+    second: tint2_leg
+  - first:
+      213: 1213291140337680653
+    second: tint3_leg
+  - first:
+      213: 8520214818316804304
+    second: tint4_leg
+  - first:
+      213: -167342617434554031
+    second: tint1_leg
+  - first:
+      213: 608127030723414584
+    second: tint6_leg
+  - first:
+      213: 6684127440967069725
+    second: tint8_leg
+  - first:
+      213: 1172154535332695254
+    second: tint1_neck
+  - first:
+      213: -156039628911571160
+    second: tint6_neck
+  - first:
+      213: 8071209155206601717
+    second: tint3_neck
+  - first:
+      213: 4899030509703390026
+    second: tint2_neck
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tint7_leg
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 823
+        width: 93
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8698b9002b0de19b0800000000000000
+      internalID: -5107415464458614424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint8_hand
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 811
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8b1d9cf4478b810800000000000000
+      internalID: 1781301538662234364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint1_arm
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 552
+        width: 170
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95264aa8c7d5b9f60800000000000000
+      internalID: 8042124349083509337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint5_arm
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 416
+        width: 170
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f33da6d3d2dbf00800000000000000
+      internalID: 1134112422975717145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint2_arm
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 144
+        width: 170
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87e38d92e9abf5d0800000000000000
+      internalID: -3027639533706156147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint2_head
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 688
+        width: 173
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e156de1c237aa80800000000000000
+      internalID: -8455733966871912820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint3_head
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 520
+        width: 173
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70fe03acb637eef0800000000000000
+      internalID: -79034284638277510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint1_head
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 856
+        width: 173
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a35e38d283adea30800000000000000
+      internalID: 4246229806049285026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint4_head
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 173
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049b8d883ee581860800000000000000
+      internalID: 7500849510732052800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint5_head
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 173
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cecec63de775e330800000000000000
+      internalID: 3739526926311542467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint6_head
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 173
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0414df804cc57910800000000000000
+      internalID: 1834597000886359055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint7_head
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 856
+        width: 173
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b0f34876a62d000800000000000000
+      internalID: 59226737942137644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint8_head
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 688
+        width: 173
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b761acb2e078bc0800000000000000
+      internalID: -3781037780917388486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint3_arm
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 552
+        width: 170
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0a5225ddc0e5ed0800000000000000
+      internalID: -2423485404773244732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint4_arm
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 416
+        width: 170
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbeb0d52eaaa7dfb0800000000000000
+      internalID: -4623038827537056065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint6_arm
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 280
+        width: 170
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3eecc0acb8517d0800000000000000
+      internalID: -2948296681129581640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint7_arm
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 280
+        width: 170
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebb01d1077d76b00800000000000000
+      internalID: 821862333542349796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint8_arm
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 8
+        width: 170
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c380dc2c5e816a60800000000000000
+      internalID: 7665564567301292999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint6_hand
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 953
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083817e9db016b270800000000000000
+      internalID: 8265812572678226816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint3_hand
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 953
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fae33dba95759060800000000000000
+      internalID: 6959598106630679284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint1_hand
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 882
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bf1db32f8270770800000000000000
+      internalID: 8576869036201212736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint2_hand
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 882
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bbf8a176d0e26f0800000000000000
+      internalID: -707613354972169335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint5_hand
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 752
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ebca82e811c46c0800000000000000
+      internalID: -4157929053704372714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint4_hand
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 752
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1315017f7d662f0800000000000000
+      internalID: -979858412775853586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint7_hand
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 45
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e1acb13de574220800000000000000
+      internalID: 2470047181433347604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint5_leg
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 3
+        width: 93
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4c95c15121cf7d0800000000000000
+      internalID: -2883409779544701772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint2_leg
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 167
+        width: 93
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb5d960728dbd880800000000000000
+      internalID: -8585030602525418520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint3_leg
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 331
+        width: 93
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01c4f42dd976d010800000000000000
+      internalID: 1213291140337680653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint4_leg
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 495
+        width: 93
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0eac73c32ed3670800000000000000
+      internalID: 8520214818316804304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint1_leg
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 659
+        width: 93
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151870ca6ca7dadf0800000000000000
+      internalID: -167342617434554031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint6_leg
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 823
+        width: 93
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a059cff40807800800000000000000
+      internalID: 608127030723414584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint8_leg
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 116
+        width: 93
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1078485e7ac2cc50800000000000000
+      internalID: 6684127440967069725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint1_neck
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 21
+        width: 96
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc4e5ce654544010800000000000000
+      internalID: 1172154535332695254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint5_neck
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 58
+        width: 96
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924be1d4ae2257850800000000000000
+      internalID: 6374039237324354601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint6_neck
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 95
+        width: 96
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f87d3c8c2a5ddf0800000000000000
+      internalID: -156039628911571160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint4_neck
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 132
+        width: 96
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226c796473ac97c50800000000000000
+      internalID: 6663579462427723298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint7_neck
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 169
+        width: 96
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f00532016c620c0800000000000000
+      internalID: -4600772196698157163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint8_neck
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 206
+        width: 96
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6f6c4b3ac5336e0800000000000000
+      internalID: -1859040362991520033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint3_neck
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 243
+        width: 96
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb58fba6f1b20070800000000000000
+      internalID: 8071209155206601717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tint2_neck
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 987
+        width: 96
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43ebaada4adcf340800000000000000
+      internalID: 4899030509703390026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
