@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c2577534c333d942b33bb8c662de10b, type: 3}
+  m_Name: Head Tint 6
+  m_EditorClassIdentifier: 
+  _tint: 5
+  _headID: HeadTint_6
+  _headSprite: {fileID: 1834597000886359055, guid: 46325c972701f6f479ad939fd7820bf5,
+    type: 3}

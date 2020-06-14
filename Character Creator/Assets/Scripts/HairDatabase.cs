@@ -18,6 +18,8 @@ public class HairDatabase : MonoBehaviour
     private int maleHairCount = 8;
     private int femaleHairCount = 6;
 
+    public static Gender gender;
+
     private void Awake()
     {
         hairDictionary = new Dictionary<string, Hair>();
@@ -83,6 +85,7 @@ public class HairDatabase : MonoBehaviour
         _hairInstanceKey = currentKey;
         _hairInstance.name = _hairInstanceKey;
         _hairInstance.GetComponent<SpriteRenderer>().sprite = hair.HairSprite;
+        gender = hair.HairType;
     }
 
     public void GenerateHair(string hairKey)

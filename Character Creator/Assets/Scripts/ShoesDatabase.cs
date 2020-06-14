@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class ShoesDatabase : MonoBehaviour
 {
@@ -21,6 +22,8 @@ public class ShoesDatabase : MonoBehaviour
     private string _shoeInstanceKey;
 
     private int shoeTypeCount = 5;
+
+    [SerializeField] private Slider slider = null;
 
     private void Awake()
     {
@@ -105,22 +108,48 @@ public class ShoesDatabase : MonoBehaviour
         _invertedShoeInstance = Instantiate(_shoePrefab, invertedShoe.ShoePosition, Quaternion.Euler(shoeRotation));
         _invertedShoeInstance.name = invertedShoeKey;
         _invertedShoeInstance.GetComponent<SpriteRenderer>().sprite = invertedShoe.ShoeSprite;
+
+        string[] words = _shoeInstanceKey.Split('_');
+        string shoeType = "";
+
+        // Get the shoeType from the shoeKey
+        if (words.Length == 2)
+        {
+            shoeType = words[1];
+        }
+
+        slider.value = int.Parse(shoeType);
     }
 
-    //public void GenerateHair(string hairKey)
-    //{
-    //    if (_shoesList.Count <= 0 || shoesDictionary == null)
-    //    {
-    //        return;
-    //    }
+    public void GenerateShoes(float shoeType)
+    {
+        if (_shoesList.Count <= 0 || _invertedShoesList.Count <= 0)
+        {
+            return;
+        }
 
-    //    int rand = Random.Range(0, _shoesList.Count);
-    //    Hair hair = shoesDictionary[hairKey];
+        ClearShoeInstance();
 
-    //    _shoeInstance = Instantiate(_shoePrefab, hair.HairPosition, Quaternion.identity);
-    //    _shoeInstance.name = hair.HairID;
-    //    _shoeInstance.GetComponent<SpriteRenderer>().sprite = hair.HairSprite;
-    //}
+        string currentKey = GenerateKey(shoeType);
+        Debug.Log(shoeType);
+
+        // Instantiate the right shoe
+        Shoe shoe = shoesDictionary[currentKey];
+
+        _shoeInstance = Instantiate(_shoePrefab, shoe.ShoePosition, Quaternion.identity);
+        _shoeInstanceKey = currentKey;
+        _shoeInstance.name = _shoeInstanceKey;
+        _shoeInstance.GetComponent<SpriteRenderer>().sprite = shoe.ShoeSprite;
+
+        // Instantiate the left shoe(inverted)
+        string invertedShoeKey = GenerateInvertedShoeKey(currentKey);
+        Shoe invertedShoe = invertedShoesDictionary[invertedShoeKey];
+
+        Vector3 shoeRotation = new Vector3(0, 180, 0);
+        _invertedShoeInstance = Instantiate(_shoePrefab, invertedShoe.ShoePosition, Quaternion.Euler(shoeRotation));
+        _invertedShoeInstance.name = invertedShoeKey;
+        _invertedShoeInstance.GetComponent<SpriteRenderer>().sprite = invertedShoe.ShoeSprite;
+    }
 
     private string GenerateKey()
     {
@@ -130,6 +159,18 @@ public class ShoesDatabase : MonoBehaviour
         string shoeColor = System.Enum.GetName(typeof(Shoe.ShoeColorEnum), random);
 
         var shoeType = Random.Range(1, shoeTypeCount + 1);
+        string randomKey = shoeColor + "Shoe_" + shoeType;
+
+        return randomKey;
+    }
+
+    private string GenerateKey(float shoeType)
+    {
+        int ColorEnumLength = System.Enum.GetNames(typeof(Shoe.ShoeColorEnum)).Length;
+
+        int random = Random.Range(0, ColorEnumLength);
+        string shoeColor = System.Enum.GetName(typeof(Shoe.ShoeColorEnum), random);
+        
         string randomKey = shoeColor + "Shoe_" + shoeType;
         return randomKey;
     }

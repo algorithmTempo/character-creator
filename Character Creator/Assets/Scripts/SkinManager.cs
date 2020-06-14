@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class SkinManager : MonoBehaviour
 {
@@ -14,6 +15,8 @@ public class SkinManager : MonoBehaviour
 
     // Use it to store previous SkinTint
     private string _skinTint = "";
+
+    [SerializeField] private Slider slider = null;
 
     // Start is called before the first frame update
     void Start()
@@ -39,7 +42,7 @@ public class SkinManager : MonoBehaviour
     public void GenerateRandomSkin()
     {
         //int skinTintCount = System.Enum.GetNames(typeof(Head.SkinTint)).Length;
-        int skinTintCount = 2;
+        int skinTintCount = 8;
         bool flag = false;
 
         //currentTint = (int) _skinTint;
@@ -47,12 +50,12 @@ public class SkinManager : MonoBehaviour
 
         if (_skinTint == "")
         {
-            _currentTint = (Head.SkinTint)randomTint;
+            _currentTint = (Skin.SkinTint)randomTint;
             _skinTint = _currentTint.ToString();
         }
         else
         {
-            var tint = (Head.SkinTint)randomTint;
+            var tint = (Skin.SkinTint)randomTint;
             _skinTint = tint.ToString();
 
             while (!flag)
@@ -60,7 +63,7 @@ public class SkinManager : MonoBehaviour
                 if (_skinTint == _currentTint.ToString())
                 {
                     randomTint = Random.Range(0, skinTintCount);
-                    tint = (Head.SkinTint)randomTint;
+                    tint = (Skin.SkinTint)randomTint;
                     _skinTint = tint.ToString();
                 }
                 else
@@ -71,6 +74,18 @@ public class SkinManager : MonoBehaviour
         }
 
         // Convert _skinTint (string to Head.SkinTint)
+        _currentTint = (Skin.SkinTint)System.Enum.Parse(typeof(Skin.SkinTint), _skinTint);
+
+        slider.value = (int)_currentTint;
+        GenerateCharacterSkin(_currentTint);
+    }
+
+    public void GenerateSkin(float skinTint)
+    {
+        var tint = (Skin.SkinTint)skinTint;
+        _skinTint = tint.ToString();
+
+        // Convert _skinTint (string to Skin.SkinTint)
         _currentTint = (Skin.SkinTint)System.Enum.Parse(typeof(Skin.SkinTint), _skinTint);
 
         GenerateCharacterSkin(_currentTint);

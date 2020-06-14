@@ -6,11 +6,13 @@ public class ShirtDatabase : MonoBehaviour
 {
     [Header("Shirt List")]
     [SerializeField] private List<Shirt> _shirtList = new List<Shirt>();
+    //[SerializeField] private List<Shirt> _femaleShirtList = new List<Shirt>();
     [Header("Shirt Arm Lists")]
     [SerializeField] private List<ShirtArm> _shirtArmList = new List<ShirtArm>();
     [SerializeField] private List<ShirtArm> _invertedShirtArmList = new List<ShirtArm>();
 
     public Dictionary<string, Shirt> shirtDictionary;
+    //public Dictionary<string, Shirt> femaleShirtDictionary;
     public Dictionary<string, ShirtArm> shirtArmDictionary;
     public Dictionary<string, ShirtArm> invertedShirtArmDictionary;
 
@@ -35,6 +37,7 @@ public class ShirtDatabase : MonoBehaviour
     private void Awake()
     {
         shirtDictionary = new Dictionary<string, Shirt>();
+        //femaleShirtDictionary = new Dictionary<string, Shirt>();
         PopulateShirtDict();
 
         shirtArmDictionary = new Dictionary<string, ShirtArm>();
@@ -72,6 +75,11 @@ public class ShirtDatabase : MonoBehaviour
         {
             shirtDictionary.Add(shirt.ShirtID, shirt);
         }
+
+        //foreach (Shirt shirt in _femaleShirtList)
+        //{
+        //    femaleShirtDictionary.Add(shirt.ShirtID, shirt);
+        //}
     }
 
     private void PopulateShirtArmsDict()

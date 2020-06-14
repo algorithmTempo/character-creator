@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33ad4948cc29ce749805bbe6d327111d, type: 3}
+  m_Name: Neck Tint 6
+  m_EditorClassIdentifier: 
+  _tint: 5
+  _neckID: NeckTint_6
+  _neckSprite: {fileID: -156039628911571160, guid: 46325c972701f6f479ad939fd7820bf5,
+    type: 3}
