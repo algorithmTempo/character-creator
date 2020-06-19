@@ -34,20 +34,20 @@ public class UIAnimation : MonoBehaviour
     public void ShowCharacterPanel()
     {
         _createRect.DOAnchorPos(new Vector2(-250, 500), _duration);
-        _characterRect.DOAnchorPos(new Vector2(-250, -250), _duration).SetDelay(_duration);
+        _characterRect.DOAnchorPos(new Vector2(-250, -300), _duration).SetDelay(_duration);
     }
 
     public void HideCharacterPanel()
     {
-        _skinManager.GenerateCacheSkin();
-        _characterRect.DOAnchorPos(new Vector2(500, -250), _duration);
+        _skinManager.GenerateCachedSkin();
+        _characterRect.DOAnchorPos(new Vector2(500, -300), _duration);
         _createRect.DOAnchorPos(new Vector2(-250, -410), _duration).SetDelay(_duration);
     }
 
     public void SaveSkinHideCharacterPanel()
     {
         _skinManager.SaveSkin();
-        _characterRect.DOAnchorPos(new Vector2(500, -250), _duration);
+        _characterRect.DOAnchorPos(new Vector2(500, -300), _duration);
         _createRect.DOAnchorPos(new Vector2(-250, -410), _duration).SetDelay(_duration);
     }
 

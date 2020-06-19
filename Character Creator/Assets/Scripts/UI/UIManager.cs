@@ -11,7 +11,7 @@ public class UIManager : MonoBehaviour
 
     public void GenerateSkin(SkinManager skinManager)
     {
-        skinManager.GenerateRandomSkin();
+        skinManager.GenerateSkin();
     }
 
     public void GenerateShirt(ShirtDatabase shirtDatabase)
