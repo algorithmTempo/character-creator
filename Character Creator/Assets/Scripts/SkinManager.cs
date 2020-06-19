@@ -16,6 +16,8 @@ public class SkinManager : MonoBehaviour
     // Use it to store previous SkinTint
     private string _skinTint = "";
 
+    private string _cachedSkinTint = "";
+
     [SerializeField] private Slider slider = null;
 
     // Start is called before the first frame update
@@ -73,10 +75,12 @@ public class SkinManager : MonoBehaviour
             }
         }
 
+        _cachedSkinTint = _skinTint;
+
         // Convert _skinTint (string to Head.SkinTint)
         _currentTint = (Skin.SkinTint)System.Enum.Parse(typeof(Skin.SkinTint), _skinTint);
 
-        slider.value = (int)_currentTint;
+        slider.Set((int)_currentTint);
         GenerateCharacterSkin(_currentTint);
     }
 
@@ -89,5 +93,19 @@ public class SkinManager : MonoBehaviour
         _currentTint = (Skin.SkinTint)System.Enum.Parse(typeof(Skin.SkinTint), _skinTint);
 
         GenerateCharacterSkin(_currentTint);
+    }
+
+    public void GenerateCacheSkin()
+    {
+        // Convert _skinTint (string to Skin.SkinTint)
+        _currentTint = (Skin.SkinTint)System.Enum.Parse(typeof(Skin.SkinTint), _cachedSkinTint);
+
+        slider.value = (int)_currentTint;
+        GenerateCharacterSkin(_currentTint);
+    }
+
+    public void SaveSkin()
+    {
+        _cachedSkinTint = _currentTint.ToString();
     }
 }

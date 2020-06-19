@@ -22,12 +22,11 @@ public class UIManager : MonoBehaviour
 
     public void GeneratePants(PantsDatabase pantsDatabase)
     {
-        pantsDatabase.GenerateRandomPants();
-        pantsDatabase.GenerateRandomPantsLegs();
+        pantsDatabase.GeneratePants();
     }
 
     public void GenerateShoes(ShoesDatabase shoesDatabase)
     {
-        shoesDatabase.GenerateRandomShoes();
+        shoesDatabase.GenerateShoes();
     }
 }

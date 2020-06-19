@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6fb5505b8d073044ae1d4e74bf99cd3, type: 3}
+  m_Name: White Pants Leg Shorter
+  m_EditorClassIdentifier: 
+  _pantsColor: 10
+  _pantsLegID: WhitePantsLeg_Shorter
+  _pantsLegType: 2
+  _isInverted: 0
+  _pantsLegSprite: {fileID: 3060094201677013022, guid: 7e7f1ea319c786744bacb4e2fa3b1803,
+    type: 3}

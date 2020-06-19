@@ -23,6 +23,7 @@ public class PantsLeg : PantsColorClass
     private Sprite _pantsLegSprite = null;
 
     public string PantsLegID => _pantsLegID;
+    public PantsLegType PantLegType => _pantsLegType;
     public Sprite PantsLegSprite => _pantsLegSprite;
     public Vector3 PantsLegPosition => CheckPantsLegPosition();
 
