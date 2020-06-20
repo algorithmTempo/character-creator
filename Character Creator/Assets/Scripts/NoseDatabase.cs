@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class NoseDatabase : MonoBehaviour
 {
@@ -10,10 +11,20 @@ public class NoseDatabase : MonoBehaviour
     [SerializeField] private GameObject _nosePrefab = null;
     private GameObject _noseInstance;
 
+    private string _nouseInstanceKey;
+
+    private SkinManager _skinManager = null;
+
     private int _noseTypeCount = 3;
+
+    [SerializeField] private Slider _slider = null;
+
+    private string _cachedNoseKey = "";
 
     private void Awake()
     {
+        _skinManager = GetComponent<SkinManager>();
+
         noseDictionary = new Dictionary<string, Nose>();
         PopulateNoseDict();
     }
@@ -34,26 +45,7 @@ public class NoseDatabase : MonoBehaviour
         }
     }
 
-    public string GenerateNose(Skin.SkinTint skinTint)
-    {
-        if (noseDictionary.Count <= 0)
-        {
-            return null;
-        }
-
-        ClearNoseInstance();
-
-        string noseKey = GenerateNoseKey(skinTint);
-        Nose nose = noseDictionary[noseKey];
-
-        _noseInstance = Instantiate(_nosePrefab, nose.NosePosition, Quaternion.identity);
-        _noseInstance.name = noseKey;
-        _noseInstance.GetComponent<SpriteRenderer>().sprite = nose.NoseSprite;
-
-        return noseKey;
-    }
-
-    public void GenerateNose(Skin.SkinTint skinTint, int noseType)
+    public void GenerateNose(Skin.SkinTint skinTint, bool isNoseTypeCached)
     {
         if (noseDictionary.Count <= 0)
         {
@@ -62,12 +54,103 @@ public class NoseDatabase : MonoBehaviour
 
         ClearNoseInstance();
 
-        string noseKey = GenerateNoseKey(skinTint, noseType);
+        string noseKey = "";
+
+        if (!isNoseTypeCached)
+        {
+            noseKey = GenerateNoseKey(skinTint);
+            InstantiateNose(noseKey);
+
+            string[] words = noseKey.Split('_');
+            string noseType = "";
+
+            // Get the shoeType from the shoeKey
+            if (words.Length == 3)
+            {
+                noseType = words[2];
+            }
+
+            _slider.Set(int.Parse(noseType));
+
+            _cachedNoseKey = noseKey;
+        }
+        else
+        {
+            string[] words = _cachedNoseKey.Split('_');
+            string noseType = "";
+
+            // Get the shoeType from the shoeKey
+            if (words.Length == 3)
+            {
+                noseType = words[2];
+            }
+
+            int noseTypeValue = System.Convert.ToInt32(noseType);
+            noseKey = GenerateNoseKey(skinTint, noseTypeValue);
+
+            InstantiateNose(noseKey);
+            _cachedNoseKey = noseKey;
+        }
+    }
+
+    public void GenerateNose(string cachedNoseKey)
+    {
+        if (noseDictionary.Count <= 0)
+        {
+            return;
+        }
+
+        ClearNoseInstance();
+
+        string currentKey = cachedNoseKey;
+
+        InstantiateNose(currentKey);
+
+        string[] words = _nouseInstanceKey.Split('_');
+        string noseType = "";
+
+        // Get the shoeType from the shoeKey
+        if (words.Length == 3)
+        {
+            noseType = words[2];
+        }
+
+        _slider.Set(int.Parse(noseType));
+    }
+
+    public void GenerateNose(float noseType)
+    {
+        if (noseDictionary.Count <= 0)
+        {
+            return;
+        }
+
+        ClearNoseInstance();
+
+        int noseTypeValue = System.Convert.ToInt32(noseType);
+        string noseKey = GenerateNoseKey(_skinManager.currentTint, noseTypeValue);
+
+        InstantiateNose(noseKey);
+    }
+
+    private void InstantiateNose(string noseKey)
+    {
         Nose nose = noseDictionary[noseKey];
 
         _noseInstance = Instantiate(_nosePrefab, nose.NosePosition, Quaternion.identity);
-        _noseInstance.name = noseKey;
+        _nouseInstanceKey = noseKey;
+        _noseInstance.name = _nouseInstanceKey;
         _noseInstance.GetComponent<SpriteRenderer>().sprite = nose.NoseSprite;
+    }
+
+    public void GenerateCachedNose()
+    {
+        GenerateNose(_cachedNoseKey);
+    }
+
+    public void SaveNose()
+    {
+        _cachedNoseKey = _nouseInstanceKey;
     }
 
     private string GenerateNoseKey(Skin.SkinTint skinTint)

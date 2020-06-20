@@ -12,17 +12,14 @@ public class SkinManager : MonoBehaviour
     private HandDatabase _handDatabase;
     private LegDatabase _legDatabase;
     
-    private Skin.SkinTint _currentTint = Skin.SkinTint.Tint1;
+    public Skin.SkinTint currentTint = Skin.SkinTint.Tint1;
 
     // Use it to store previous SkinTint
     private string _skinTint = "";
 
     private string _cachedSkinTint = "";
-    private int _currentNoseType;
-    private int _cachedNoseType;
 
     [SerializeField] private Slider _skinSlider = null;
-    [SerializeField] private Slider _noseTypeSlider = null;
 
     // Start is called before the first frame update
     void Start()
@@ -37,39 +34,14 @@ public class SkinManager : MonoBehaviour
         GenerateSkin();
     }
 
-    private void GenerateCharacterSkin(Skin.SkinTint tint)
+    private void GenerateCharacterSkin(Skin.SkinTint tint, bool isNoseTypeCached)
     {
         _headDatabase.GenerateHead(tint);
-        string noseKey = _noseDatabase.GenerateNose(tint);
+        _noseDatabase.GenerateNose(tint, isNoseTypeCached);
         _neckDatabase.GenerateNeck(tint);
         _armDatabase.GenerateArms(tint);
         _handDatabase.GenerateHands(tint);
         _legDatabase.GenerateLegs(tint);
-
-        string[] words = noseKey.Split('_');
-        string noseType = "";
-
-        // Get the shoeType from the shoeKey
-        if (words.Length == 3)
-        {
-            noseType = words[2];
-        }
-
-        _cachedNoseType = int.Parse(noseType);
-        _currentNoseType = _cachedNoseType;
-        _noseTypeSlider.Set(_cachedNoseType);
-    }
-
-    private void GenerateCharacterSkin(Skin.SkinTint tint, int noseType)
-    {
-        _headDatabase.GenerateHead(tint);
-        _noseDatabase.GenerateNose(tint, noseType);
-        _neckDatabase.GenerateNeck(tint);
-        _armDatabase.GenerateArms(tint);
-        _handDatabase.GenerateHands(tint);
-        _legDatabase.GenerateLegs(tint);
-
-        _noseTypeSlider.Set(noseType);
     }
 
     public void GenerateSkin()
@@ -83,8 +55,8 @@ public class SkinManager : MonoBehaviour
 
         if (_skinTint == "")
         {
-            _currentTint = (Skin.SkinTint)randomTint;
-            _skinTint = _currentTint.ToString();
+            currentTint = (Skin.SkinTint)randomTint;
+            _skinTint = currentTint.ToString();
         }
         else
         {
@@ -93,7 +65,7 @@ public class SkinManager : MonoBehaviour
 
             while (!flag)
             {
-                if (_skinTint == _currentTint.ToString())
+                if (_skinTint == currentTint.ToString())
                 {
                     randomTint = Random.Range(0, skinTintCount);
                     tint = (Skin.SkinTint)randomTint;
@@ -109,10 +81,10 @@ public class SkinManager : MonoBehaviour
         _cachedSkinTint = _skinTint;
 
         // Convert _skinTint (string to Head.SkinTint)
-        _currentTint = (Skin.SkinTint)System.Enum.Parse(typeof(Skin.SkinTint), _skinTint);
+        currentTint = (Skin.SkinTint)System.Enum.Parse(typeof(Skin.SkinTint), _skinTint);
 
-        _skinSlider.Set((int)_currentTint);
-        GenerateCharacterSkin(_currentTint);
+        _skinSlider.Set((int)currentTint);
+        GenerateCharacterSkin(currentTint , false);
     }
 
     public void GenerateSkin(float skinTint)
@@ -121,33 +93,23 @@ public class SkinManager : MonoBehaviour
         _skinTint = tint.ToString();
 
         // Convert _skinTint (string to Skin.SkinTint)
-        _currentTint = (Skin.SkinTint)System.Enum.Parse(typeof(Skin.SkinTint), _skinTint);
+        currentTint = (Skin.SkinTint)System.Enum.Parse(typeof(Skin.SkinTint), _skinTint);
 
-        GenerateCharacterSkin(_currentTint, _currentNoseType);
-    }
-
-    public void GenerateNose(float noseTypeValue)
-    {
-        int noseType = System.Convert.ToInt32(noseTypeValue);
-
-        _noseDatabase.GenerateNose(_currentTint, noseType);
-        _currentNoseType = noseType;
+        GenerateCharacterSkin(currentTint, true);
     }
 
     public void GenerateCachedSkin()
     {
         // Convert _skinTint (string to Skin.SkinTint)
-        _currentTint = (Skin.SkinTint)System.Enum.Parse(typeof(Skin.SkinTint), _cachedSkinTint);
+        currentTint = (Skin.SkinTint)System.Enum.Parse(typeof(Skin.SkinTint), _cachedSkinTint);
 
-        _skinSlider.value = (int)_currentTint;
-
-        _currentNoseType = _cachedNoseType;
-        GenerateCharacterSkin(_currentTint, _cachedNoseType);
+        _skinSlider.value = (int)currentTint;
+        
+        GenerateCharacterSkin(currentTint, true);
     }
 
     public void SaveSkin()
     {
-        _cachedSkinTint = _currentTint.ToString();
-        _cachedNoseType = _currentNoseType;
+        _cachedSkinTint = currentTint.ToString();
     }
 }

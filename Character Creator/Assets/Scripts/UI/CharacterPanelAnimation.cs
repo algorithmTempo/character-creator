@@ -13,8 +13,8 @@ public class CharacterPanelAnimation : MonoBehaviour
     [SerializeField] SkinManager _skinManager = null;
 
     [Header("Screen Targets")]
-    [SerializeField] Vector2 _screenTarget = new Vector2(-250, -300);
-    [SerializeField] Vector2 _outScreenTarget = new Vector2(500, -300);
+    [SerializeField] Vector2 _screenTarget = new Vector2(-250, -250);
+    [SerializeField] Vector2 _outScreenTarget = new Vector2(500, -250);
     [SerializeField] Vector2 _createPanelScreenTarget = new Vector2(-250, -410);
     [SerializeField] Vector2 _createPanelOutScreenTarget = new Vector2(-250, 500);
 

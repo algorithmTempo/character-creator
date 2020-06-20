@@ -14,6 +14,11 @@ public class UIManager : MonoBehaviour
         skinManager.GenerateSkin();
     }
 
+    public void GenerateMouth(MouthDatabase mouthDatabase)
+    {
+        mouthDatabase.GenerateMouth();
+    }
+
     public void GenerateShirt(ShirtDatabase shirtDatabase)
     {
         shirtDatabase.GenerateRandomShirt();
