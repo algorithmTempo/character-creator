@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-[CreateAssetMenu(menuName = "Character Creator/Hair")]
+[CreateAssetMenu(menuName = "Character Creator/Face/Hair")]
 public class Hair : ScriptableObject
 {
     public enum HairColor

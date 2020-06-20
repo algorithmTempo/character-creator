@@ -35,7 +35,7 @@ public class ShoesDatabase : MonoBehaviour
         shoesDictionary = new Dictionary<string, Shoe>();
         invertedShoesDictionary = new Dictionary<string, Shoe>();
 
-        GenerateShoesDict();
+        PopulateShoesDict();
     }
 
     void Start()
@@ -44,7 +44,7 @@ public class ShoesDatabase : MonoBehaviour
         GenerateShoes();
     }
 
-    private void GenerateShoesDict()
+    private void PopulateShoesDict()
     {
         foreach (Shoe shoe in _shoesList)
         {
@@ -215,7 +215,7 @@ public class ShoesDatabase : MonoBehaviour
         dropdown.Set(dropdownValue);
     }
 
-    public void GenerateCacheShoes()
+    public void GenerateCachedShoes()
     {
         GenerateShoes(_cachedShoeKey);
     }
