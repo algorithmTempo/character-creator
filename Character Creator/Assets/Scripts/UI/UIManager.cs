@@ -4,9 +4,24 @@ using UnityEngine;
 
 public class UIManager : MonoBehaviour
 {
+    public void GenerateGender(GenderManager genderManager)
+    {
+        genderManager.SetGender();
+    }
+
+    public void GenerateName(NameManager nameManager)
+    {
+        nameManager.GenerateName();
+    }
+
     public void GenerateHair(HairDatabase hairDatabase)
     {
         hairDatabase.GenerateRandomHair();
+    }
+
+    public void GenerateEyes(EyeDatabase eyeDatabase)
+    {
+        eyeDatabase.GenerateEyes();
     }
 
     public void GenerateSkin(SkinManager skinManager)
