@@ -19,6 +19,9 @@ public class Eye : ScriptableObject
     private EyeColor _eyeColor = EyeColor.Black;
 
     [SerializeField]
+    private string _eyeType = "";
+
+    [SerializeField]
     private bool _isLeft = false;
 
     [SerializeField]
@@ -26,6 +29,7 @@ public class Eye : ScriptableObject
 
     public string EyeID => _eyeID;
     public EyeColor EyeObjectColor => _eyeColor;
+    public string EyeType => _eyeType;
     public Sprite EyeSprite => _eyeSprite;
     public Vector3 EyePosition => CheckEyePosition();
 

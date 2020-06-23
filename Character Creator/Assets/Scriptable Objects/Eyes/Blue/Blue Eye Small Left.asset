@@ -14,6 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _eyeID: BlueEye_Small_Left
   _eyeColor: 1
+  _eyeType: Small
   _isLeft: 1
   _eyeSprite: {fileID: -8702519940648338400, guid: fe089165f7365194fad543b4cfcd6ef3,
     type: 3}

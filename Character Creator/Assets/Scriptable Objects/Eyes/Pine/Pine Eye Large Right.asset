@@ -14,6 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _eyeID: PineEye_Large_Right
   _eyeColor: 4
+  _eyeType: Large
   _isLeft: 0
   _eyeSprite: {fileID: 5467077584606158055, guid: fe089165f7365194fad543b4cfcd6ef3,
     type: 3}
