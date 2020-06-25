@@ -16,7 +16,7 @@ public class UIManager : MonoBehaviour
 
     public void GenerateHair(HairDatabase hairDatabase)
     {
-        hairDatabase.GenerateRandomHair();
+        hairDatabase.GenerateHair();
     }
 
     public void GenerateEyes(EyeDatabase eyeDatabase)

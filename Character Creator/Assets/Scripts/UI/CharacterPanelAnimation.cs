@@ -10,7 +10,11 @@ public class CharacterPanelAnimation : MonoBehaviour
     [SerializeField] private RectTransform _characterRect = null;
 
     [Header("Manager")]
+    [SerializeField] GenderManager _genderManager = null;
     [SerializeField] SkinManager _skinManager = null;
+
+    [Header("Database")]
+    [SerializeField] HairDatabase _hairDatabase = null;
 
     [Header("Screen Targets")]
     [SerializeField] Vector2 _screenTarget = new Vector2(-250, -250);
@@ -29,14 +33,18 @@ public class CharacterPanelAnimation : MonoBehaviour
 
     public void Reject()
     {
+        _genderManager.GenerateCachedGender();
         _skinManager.GenerateCachedSkin();
+        _hairDatabase.GenerateCachedHair();
         _characterRect.DOAnchorPos(_outScreenTarget, _duration);
         _createRect.DOAnchorPos(_createPanelScreenTarget, _duration).SetDelay(_duration);
     }
 
     public void Approve()
     {
+        _genderManager.SaveGender();
         _skinManager.SaveSkin();
+        _hairDatabase.SaveHair();
         _characterRect.DOAnchorPos(_outScreenTarget, _duration);
         _createRect.DOAnchorPos(_createPanelScreenTarget, _duration).SetDelay(_duration);
     }
