@@ -20,7 +20,7 @@ public class HairDatabase : MonoBehaviour
     private int maleHairCount = 8;
     private int femaleHairCount = 6;
 
-    [SerializeField] GenderManager _genderManager = null;
+    [SerializeField] private GenderManager _genderManager = null;
 
     [SerializeField] private Slider slider = null;
     [SerializeField] private Dropdown dropdown = null;
@@ -133,7 +133,6 @@ public class HairDatabase : MonoBehaviour
             InstantiateHair(isMale, currentKey, out int hairType, out int hairColor);
             SetUIValues(hairType, hairColor);
         }
-
     }
 
     public void GenerateHair()
@@ -300,8 +299,7 @@ public class HairDatabase : MonoBehaviour
 
     private string GenerateKey(bool isMale)
     {
-        // int ColorEnumLength = System.Enum.GetNames(typeof(Hair.HairColor)).Length;
-        int ColorEnumLength = 2;
+        int ColorEnumLength = System.Enum.GetNames(typeof(Hair.HairColor)).Length;
         int genderEnumLength = System.Enum.GetNames(typeof(Gender)).Length;
 
         int random = Random.Range(0, ColorEnumLength);

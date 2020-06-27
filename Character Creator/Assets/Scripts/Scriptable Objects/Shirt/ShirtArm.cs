@@ -23,6 +23,7 @@ public class ShirtArm : ShirtColorClass
     private Sprite _shirtArmSprite = null;
 
     public string ShirtArmID => _shirtArmID;
+    public ShirtArmType ShirtArmTypeValue => _shirtArmType;
     public Sprite ShirtArmSprite => _shirtArmSprite;
     public Vector3 ShirtArmPosition => CheckShirtArmPosition();
 

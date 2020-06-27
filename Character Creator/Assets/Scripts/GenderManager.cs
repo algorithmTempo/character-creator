@@ -7,10 +7,11 @@ public class GenderManager : MonoBehaviour
 {
     public string gender = "";
 
-    [SerializeField] Toggle _maleToggle = null;
-    [SerializeField] Toggle _femaleToggle = null;
+    [SerializeField] private Toggle _maleToggle = null;
+    [SerializeField] private Toggle _femaleToggle = null;
 
-    [SerializeField] HairDatabase _hairDatabase = null;
+    [SerializeField] private HairDatabase _hairDatabase = null;
+    [SerializeField] private ShirtDatabase _shirtDatabase = null;
 
     private string _cachedGender = "";
 
@@ -63,6 +64,7 @@ public class GenderManager : MonoBehaviour
             this.gender = gender.ToString();
 
             _hairDatabase.GenerateHairFromToggle();
+            _shirtDatabase.GenerateShirtFromToggle();
         }
     }
 
@@ -75,6 +77,7 @@ public class GenderManager : MonoBehaviour
 
             this.gender = gender.ToString();
             _hairDatabase.GenerateHairFromToggle();
+            _shirtDatabase.GenerateShirtFromToggle();
         }
     }
 

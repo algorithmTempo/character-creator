@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fcd02e47786c194e8f9838d1b6b1e11, type: 3}
+  m_Name: Brown Male Hair 7
+  m_EditorClassIdentifier: 
+  _hairID: BrownMaleHair_7
+  _hairColor: 2
+  _hairType: 0
+  _hairSprite: {fileID: -5048540870316943701, guid: 7938352c918221d4590675d5ef30d060,
+    type: 3}
+  _hairPosition: {x: 0, y: 2.05, z: 0}

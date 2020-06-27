@@ -36,8 +36,8 @@ public class UIManager : MonoBehaviour
 
     public void GenerateShirt(ShirtDatabase shirtDatabase)
     {
-        shirtDatabase.GenerateRandomShirt();
-        shirtDatabase.GenerateRandomShirtArms();
+        shirtDatabase.GenerateShirt();
+        shirtDatabase.GenerateShirtArms();
     }
 
     public void GeneratePants(PantsDatabase pantsDatabase)

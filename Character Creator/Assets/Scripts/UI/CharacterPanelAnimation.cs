@@ -15,6 +15,7 @@ public class CharacterPanelAnimation : MonoBehaviour
 
     [Header("Database")]
     [SerializeField] HairDatabase _hairDatabase = null;
+    [SerializeField] ShirtDatabase _shirtDatabase = null;
 
     [Header("Screen Targets")]
     [SerializeField] Vector2 _screenTarget = new Vector2(-250, -250);
@@ -36,6 +37,7 @@ public class CharacterPanelAnimation : MonoBehaviour
         _genderManager.GenerateCachedGender();
         _skinManager.GenerateCachedSkin();
         _hairDatabase.GenerateCachedHair();
+        _shirtDatabase.GenerateCachedShirt();
         _characterRect.DOAnchorPos(_outScreenTarget, _duration);
         _createRect.DOAnchorPos(_createPanelScreenTarget, _duration).SetDelay(_duration);
     }
@@ -45,6 +47,7 @@ public class CharacterPanelAnimation : MonoBehaviour
         _genderManager.SaveGender();
         _skinManager.SaveSkin();
         _hairDatabase.SaveHair();
+        _shirtDatabase.SaveShirt();
         _characterRect.DOAnchorPos(_outScreenTarget, _duration);
         _createRect.DOAnchorPos(_createPanelScreenTarget, _duration).SetDelay(_duration);
     }

@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0fcd02e47786c194e8f9838d1b6b1e11, type: 3}
   m_Name: Blonde Female Hair 2
   m_EditorClassIdentifier: 
-  _hairID: BlackFemaleHair_1
+  _hairID: BlondeFemaleHair_2
   _hairColor: 1
   _hairType: 1
-  _hairSprite: {fileID: -7487443869737355998, guid: 7938352c918221d4590675d5ef30d060,
+  _hairSprite: {fileID: -835722772289876945, guid: 7938352c918221d4590675d5ef30d060,
     type: 3}
-  _hairPosition: {x: 0, y: 1.5, z: 0}
+  _hairPosition: {x: 0, y: 1.24, z: 0}
