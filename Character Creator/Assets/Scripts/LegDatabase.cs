@@ -76,9 +76,6 @@ public class LegDatabase : MonoBehaviour
         tint++;
 
         string legKey = "LegTint_" + tint;
-
-        Debug.Log(legKey);
-
         return legKey;
     }
 
@@ -88,9 +85,6 @@ public class LegDatabase : MonoBehaviour
         tint++;
 
         string invertedLegKey = "LegInvertedTint_" + tint;
-
-        Debug.Log(invertedLegKey);
-
         return invertedLegKey;
     }
 }

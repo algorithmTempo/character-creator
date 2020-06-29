@@ -19,6 +19,11 @@ public class UIManager : MonoBehaviour
         hairDatabase.GenerateHair();
     }
 
+    public void GenerateEyeBrows(EyeBrowDatabase eyeBrowDatabase)
+    {
+        eyeBrowDatabase.GenerateEyeBrows();
+    }
+
     public void GenerateEyes(EyeDatabase eyeDatabase)
     {
         eyeDatabase.GenerateEyes();
@@ -37,7 +42,6 @@ public class UIManager : MonoBehaviour
     public void GenerateShirt(ShirtDatabase shirtDatabase)
     {
         shirtDatabase.GenerateShirt();
-        shirtDatabase.GenerateShirtArms();
     }
 
     public void GeneratePants(PantsDatabase pantsDatabase)

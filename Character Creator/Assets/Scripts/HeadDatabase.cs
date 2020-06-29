@@ -56,9 +56,6 @@ public class HeadDatabase : MonoBehaviour
         tint++;
 
         string headKey = "HeadTint_" + tint;
-
-        Debug.Log(headKey);
-
         return headKey;
     }
 }

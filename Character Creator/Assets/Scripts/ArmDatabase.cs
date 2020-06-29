@@ -77,8 +77,6 @@ public class ArmDatabase : MonoBehaviour
 
         string armKey = "ArmTint_" + tint;
 
-        Debug.Log(armKey);
-
         return armKey;
     }
 
@@ -88,8 +86,6 @@ public class ArmDatabase : MonoBehaviour
         tint++;
 
         string invertedArmKey = "ArmInvertedTint_" + tint;
-
-        Debug.Log(invertedArmKey);
 
         return invertedArmKey;
     }

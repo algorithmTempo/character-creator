@@ -293,8 +293,7 @@ public class ShirtDatabase : MonoBehaviour
 
         int shirtTypeValue = System.Convert.ToInt32(shirtType);
         int filteredShirtType = GetSliderValue(isMale, shirtTypeValue);
-
-        Debug.Log(filteredShirtType);
+        
         string currentKey = GenerateShirtKey(filteredShirtType);
         InstantiateShirt(isMale, currentKey, out filteredShirtType, out int shirtColor);
     }
@@ -384,8 +383,6 @@ public class ShirtDatabase : MonoBehaviour
         {
             shirtTypeString = words[1];
         }
-
-        Debug.Log("current shirt type: " + shirtTypeString);
 
         shirtType = int.Parse(shirtTypeString);
         shirtColor = (int)shirt.ShirtColor;

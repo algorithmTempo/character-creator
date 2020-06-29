@@ -20,13 +20,13 @@ public class TestDropDown : MonoBehaviour, IPointerEnterHandler, IPointerExitHan
 
     public void OnPointerEnter(PointerEventData eventData)
     {
-        Debug.Log("Highlight Button");
+        //Debug.Log("Highlight Button");
         _buttonImage.GetComponent<Image>().sprite = sprites[1];
     }
 
     public void OnPointerExit(PointerEventData eventData)
     {
-        Debug.Log("unHighlight Button");
+        //Debug.Log("unHighlight Button");
 
         if (transform.childCount == 3)
         {

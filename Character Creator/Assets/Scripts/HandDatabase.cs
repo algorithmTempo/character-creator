@@ -76,9 +76,6 @@ public class HandDatabase : MonoBehaviour
         tint++;
 
         string handKey = "HandTint_" + tint;
-
-        Debug.Log(handKey);
-
         return handKey;
     }
 
@@ -88,9 +85,6 @@ public class HandDatabase : MonoBehaviour
         tint++;
 
         string invertedHandKey = "HandInvertedTint_" + tint;
-
-        Debug.Log(invertedHandKey);
-
         return invertedHandKey;
     }
 }

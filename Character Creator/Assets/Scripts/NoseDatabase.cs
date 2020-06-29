@@ -161,9 +161,6 @@ public class NoseDatabase : MonoBehaviour
 
         string noseKey = "NoseTint_" + tint;
         noseKey += "_" + GenerateNoseType();
-
-        Debug.Log(noseKey);
-
         return noseKey;
     }
 
@@ -175,9 +172,6 @@ public class NoseDatabase : MonoBehaviour
 
         string noseKey = "NoseTint_" + tint;
         noseKey += "_" + noseType;
-
-        Debug.Log(noseKey);
-
         return noseKey;
     }
 

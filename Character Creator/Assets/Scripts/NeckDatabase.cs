@@ -55,9 +55,6 @@ public class NeckDatabase : MonoBehaviour
         tint++;
 
         string neckKey = "NeckTint_" + tint;
-
-        Debug.Log(neckKey);
-
         return neckKey;
     }
 }
