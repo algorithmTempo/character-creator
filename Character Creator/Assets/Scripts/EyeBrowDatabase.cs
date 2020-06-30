@@ -208,6 +208,9 @@ public class EyeBrowDatabase : MonoBehaviour
 
         string currentKey = GenerateEyeBrowKey(eyeBrowColor, eyeBrowTypeValue.ToString());
         InstantiateEyeBrows(currentKey, out eyeBrowColor, out eyeBrowTypeValue);
+
+        _eyeBrowInstance.transform.position = cachedEyeBrowPosition;
+        _invertedEyeBrowInstance.transform.position = cachedInvertedEyeBrowPosition;
     }
 
     public void PositionLeftEyeBrow(float leftEyeBrowPosition)
