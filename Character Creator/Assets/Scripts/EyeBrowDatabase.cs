@@ -189,6 +189,27 @@ public class EyeBrowDatabase : MonoBehaviour
         _invertedEyeBrowInstance.transform.position = cachedInvertedEyeBrowPosition;
     }
 
+    public void GenerateEyeBrows(float eyeBrowType)
+    {
+        if (eyeBrowDictionary.Count <= 0 || invertedEyeBrowDictionary.Count <= 0)
+        {
+            return;
+        }
+
+        Vector3 cachedEyeBrowPosition = _eyeBrowInstance.transform.position;
+        Vector3 cachedInvertedEyeBrowPosition = _invertedEyeBrowInstance.transform.position;
+
+        ClearEyeBrowsInstance();
+        
+        EyeBrow.EyeBrowColor eyeBrowColorValue = (EyeBrow.EyeBrowColor)_dropdown.value;
+
+        int eyeBrowColor = (int)eyeBrowColorValue;
+        int eyeBrowTypeValue = System.Convert.ToInt32(eyeBrowType);
+
+        string currentKey = GenerateEyeBrowKey(eyeBrowColor, eyeBrowTypeValue.ToString());
+        InstantiateEyeBrows(currentKey, out eyeBrowColor, out eyeBrowTypeValue);
+    }
+
     public void PositionLeftEyeBrow(float leftEyeBrowPosition)
     {
         float xPosition = _eyeBrowInstance.transform.position.x;
